@@ -8,7 +8,7 @@ logo:               'assets/img/logo.png'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
-url:                https://github.com/r-m-c-d/r-m-c-d.github.io
+url:                https://r-m-c-d.github.io/
 
 # Jekyll
 permalink:          /:title/
@@ -39,18 +39,18 @@ disqus_shortname:   taylantatli
 #bing-verify:
 #email:
 twitter:            https://twitter.com/Roman0oO
-facebook:           username
+#facebook:           username
 github-url:         https://github.com/r-m-c-d
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
-#linkedin:          username
+linkedin:          https://www.linkedin.com/in/marchandromain/
 #xing:              username
-instagram:          username
+#instagram:          username
 #lastfm:            username
 #tumblr:            username
 #medium:            '@username'
 #pinterest:         username
 #foursquare:        username
-steam:              username
+#steam:              username
 #dribbble:          username
 #youtube:           username
 #youtube-channel:   channel
