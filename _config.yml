@@ -43,17 +43,12 @@ twitter:            Roman0oO
 #github-url:         r-m-c-d
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 linkedin:           marchandromain
-#xing:              username
-#instagram:          username
-#lastfm:            username
-#tumblr:            username
 medium:            '@Romain_Marchand'
 email:              romain.marchand@protonmail.ch
 #youtube:           username
 #youtube-channel:   channel
 #flickr:            username
-#keybase:           username
-about.me            romainmarchand
+
 
 # Gems
 gems:
