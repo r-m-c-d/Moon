@@ -26,6 +26,6 @@ Here I'm supposed to warn you everything in this site belongs to me except what 
 Officially, this website uses the terms of the [MIT license](https://github.com/r-m-c-d/r-m-c-d.github.io/blob/master/LICENSE)
 
 ## Contact?
-Sure, hit me!
-![Alt Text](https://media.giphy.com/media/gpI5qi9kbUWe4/giphy.gif) 
+Sure, hit me!  
+![](https://media.giphy.com/media/gpI5qi9kbUWe4/giphy.gif)   
 DM on [Twitter](https://twitter.com/Roman0oO) or [send an email](mailto:romain.marchand@prontomail.ch)
