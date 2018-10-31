@@ -1,7 +1,7 @@
 # Site
 title:              RMCD
 bio:                'Oh, hello there!'
-description:        "keep on rocking"
+description:        "digitally yours"
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.jpg'
@@ -9,6 +9,7 @@ background:         'assets/img/background.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                https://r-m-c-d.github.io/
+rss:                true
 
 # Jekyll
 permalink:          /:title/
@@ -26,7 +27,7 @@ sass:
   style:            compressed
 
 # Comments
-disqus_shortname:   
+#disqus_shortname:   
 
 # Social
 # if you don't have any of social below, comment the line.
@@ -37,7 +38,6 @@ disqus_shortname:
   #ad-client:
   #ad-slot:
 #bing-verify:
-#email:
 twitter:            Roman0oO
 #facebook:           username
 #github-url:         r-m-c-d
@@ -48,20 +48,12 @@ linkedin:           marchandromain
 #lastfm:            username
 #tumblr:            username
 medium:            '@Romain_Marchand'
-#pinterest:         username
-#foursquare:        username
-#steam:              username
-#dribbble:          username
+email:              romain.marchand@protonmail.ch
 #youtube:           username
 #youtube-channel:   channel
-#soundcloud:        username
-#weibo:             username
 #flickr:            username
-#codepen:           username
 #keybase:           username
-#xmpp:              username@server.com
-#hackernews:        username
-rss: true
+about.me            romainmarchand
 
 # Gems
 gems:
