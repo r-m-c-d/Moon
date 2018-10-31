@@ -16,15 +16,15 @@ comments: false
 * Litterally anything else I'd like to write one of these days, it's my site after all. Get your own!
 
 ## CV & projects showcase
-Quite obvious, since I'm looking for a job right now \o/. Speaking of which, here are some documents you can check:
-* [Generic Project & Business Administration](https://drive.google.com/open?id=1K3Eod-2f-WGaRSrlZVFVaAX_xSAv5b2I) detailed CV. [Contact me](mailto:romain.marchand@protonmail.ch) if you're looking for specific, job or project versions of my it.
+Quite obvious, since I'm looking for a job right now \o/. Speaking of which, here are some documents you may want to check (Gdrive PDF links):
+* [Generic Project & Business Administration](https://drive.google.com/open?id=1K3Eod-2f-WGaRSrlZVFVaAX_xSAv5b2I) detailed CV. [Contact me](mailto:romain.marchand@protonmail.ch) if you're looking for a specific, job or project versions of it.
 * [Written recommendations](https://drive.google.com/open?id=1WFMRN0ML64Edqv_lDy7kgSfd85cdYOJZ) from former coworkers or managers.  
 
-Great! Now you just have to [hire me](mailto:romain.marchand@protonmail.ch), I guess!
+Great! Now I guess you just have to [hire me](mailto:romain.marchand@protonmail.ch) then!
 
 ## Disclaimer
 
-Here I'm supposed to warn you that everything in this site belongs to me except what doesn't and you're supposed to know what you can (re)use or not, that what I write only represents my point of view and all this kind of everyone-should-read-but-never-does stuff, you know.  
+Here I'm supposed to warn you that everything in this site belongs to me except what doesn't and you're supposed to know what you can (re)use or not, that what I write only represents my point of view and all this kind of everyone-should-read-but-never-does stuff, you know.   
 This website uses the terms of the [MIT license](https://github.com/r-m-c-d/r-m-c-d.github.io/blob/master/LICENSE).  
 The theme I use was forked from Taylan Tali's [Moon repository](https://github.com/TaylanTatli/Moon). Kudos to him for this smooth, gracious theme.
 
