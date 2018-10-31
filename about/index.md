@@ -23,9 +23,8 @@ Speaking of which, here are some documents you can check:
 ## Disclaimer
 
 Here I'm supposed to warn you everything in this site belongs to me except what doesn't and you're supposed to know what you can (re)use or not. Worth mentioning too, that what I write only represents my point of view and all this kind of stuff, you know.
-Officially, this website uses the terms of the [MIT license](https://github.com/r-m-c-d/r-m-c-d.github.io/blob/master/LICENSE)
+Officially, this website uses the terms of the [MIT license](https://github.com/r-m-c-d/r-m-c-d.github.io/blob/master/LICENSE).
 
 ## Contact?
-Sure, hit me!  
-![](https://media.giphy.com/media/gpI5qi9kbUWe4/giphy.gif)   
-DM on [Twitter](https://twitter.com/Roman0oO) or [send an email](mailto:romain.marchand@prontomail.ch)
+Sure, hit me!    
+DM me on [Twitter](https://twitter.com/Roman0oO) or [send an email](mailto:romain.marchand@prontomail.ch)
