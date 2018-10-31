@@ -27,5 +27,5 @@ Officially, this website uses the terms of the [MIT license](https://github.com/
 
 ## Contact?
 Sure, hit me!
-<iframe src="https://giphy.com/embed/gpI5qi9kbUWe4" width="480" height="338" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/the-it-crowd-richard-ayoade-gpI5qi9kbUWe4">via GIPHY</a></p>  
+![Alt Text](https://media.giphy.com/media/gpI5qi9kbUWe4/giphy.gif) 
 DM on [Twitter](https://twitter.com/Roman0oO) or [send an email](mailto:romain.marchand@prontomail.ch)
