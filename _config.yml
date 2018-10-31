@@ -61,6 +61,7 @@ medium:            '@Romain_Marchand'
 #keybase:           username
 #xmpp:              username@server.com
 #hackernews:        username
+rss: true
 
 # Gems
 gems:
