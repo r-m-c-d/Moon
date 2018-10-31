@@ -21,7 +21,7 @@ Quite obvious, since I'm looking for a job right now \o/. Speaking of which, her
 * [Written recommendations](https://drive.google.com/open?id=1WFMRN0ML64Edqv_lDy7kgSfd85cdYOJZ) from former coworkers or managers;    
 * This website's [projects page](https://r-m-c-d.github.io/projects/).  
 
-Great! Now I guess you just have to <a href="#" class="btn btn-success">[hire me](mailto:romain.marchand@protonmail.ch)</a> then!
+Great! Now I guess you just have to [hire me](mailto:romain.marchand@protonmail.ch) then!
 
 ## Disclaimer
 
