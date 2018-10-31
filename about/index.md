@@ -24,7 +24,7 @@ Great! Now you just have to [hire me](mailto:romain.marchand@protonmail.ch), I g
 
 ## Disclaimer
 
-Here I'm supposed to warn you everything in this site belongs to me except what doesn't and you're supposed to know what you can (re)use or not. Worth mentioning too, that what I write only represents my point of view and all this kind of stuff, you know.  
+Here I'm supposed to warn you that everything in this site belongs to me except what doesn't and you're supposed to know what you can (re)use or not, that what I write only represents my point of view and all this kind of everyone-should-read-but-never-does stuff, you know.  
 This website uses the terms of the [MIT license](https://github.com/r-m-c-d/r-m-c-d.github.io/blob/master/LICENSE).  
 The theme I use was forked from Taylan Tali's [Moon repository](https://github.com/TaylanTatli/Moon). Kudos to him for this smooth, gracious theme.
 
