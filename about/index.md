@@ -7,7 +7,7 @@ comments: false
 ---
     
 <center><a href="https://r-m-c-d.github.io/about/"><b>RMCD</b></a> is a multilingual young professional with +10 years working in Sales, Marketing, Customer Support, Administration & Project Coordination in Pharma & Biotech engineering / IT / B2B service / FMCG & retail / digital & web / tourism.  
-This small website may contain:</center>
+This website may contain:</center>
 
 ## Articles about
 * Online marketing, SEO, VR, etc. Well that's kind of my job so..  ¯\_(ツ)_/¯
