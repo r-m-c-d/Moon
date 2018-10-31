@@ -17,9 +17,9 @@ comments: false
 
 ## CV & projects showcase
 Quite obvious, since I'm looking for a job right now \o/. Speaking of which, here are some documents you can check:
-* [Generic detailed-CV Project & Business Administration](https://drive.google.com/open?id=1K3Eod-2f-WGaRSrlZVFVaAX_xSAv5b2I). [Contact me](mailto:romain.marchand@protonmail.ch) if you're looking for specific, job or project versions of my CV.
-* [Written recommendations](https://drive.google.com/open?id=1WFMRN0ML64Edqv_lDy7kgSfd85cdYOJZ) from former coworkers.
-Great! I guess now you just have to [hire me](mailto:romain.marchand@protonmail.ch) then!
+* [Generic Project & Business Administration](https://drive.google.com/open?id=1K3Eod-2f-WGaRSrlZVFVaAX_xSAv5b2I) detailed CV. [Contact me](mailto:romain.marchand@protonmail.ch) if you're looking for specific, job or project versions of my it.
+* [Written recommendations](https://drive.google.com/open?id=1WFMRN0ML64Edqv_lDy7kgSfd85cdYOJZ) from former coworkers or managers.
+Great! Now you just have to [hire me](mailto:romain.marchand@protonmail.ch), I guess!
 
 ## Disclaimer
 
