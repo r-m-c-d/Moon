@@ -1,7 +1,7 @@
 # Site
 title:              RMCD
-bio:                'a bit of tech, FOSS, sports, crypto'
-description:        "always keep on rocking"
+bio:                'Oh, hello there!'
+description:        "keep on rocking"
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.jpg'
@@ -26,7 +26,7 @@ sass:
   style:            compressed
 
 # Comments
-disqus_shortname:   rmcd
+disqus_shortname:   
 
 # Social
 # if you don't have any of social below, comment the line.
@@ -47,7 +47,7 @@ linkedin:           marchandromain
 #instagram:          username
 #lastfm:            username
 #tumblr:            username
-#medium:            '@username'
+#medium:            '@Romain_Marchand'
 #pinterest:         username
 #foursquare:        username
 #steam:              username
