@@ -6,13 +6,13 @@ date: 2018-10-31
 comments: false
 ---
     
-<center><a href="https://r-m-c-d.github.io/about/"><b>RMCD</b></a> is a multilingual young professional with +10 years working in Sales, Marketing, Customer Support, Administration & Project Coordination in Pharma & Biotech engineering / IT / B2B service / FMCG & retail / digital & web / tourism.  
-This website may contain:</center>
+<center>I am a naturally curious, multilingual young professional, with +10 years working in Sales, Marketing, Customer Support, Administration & Project Coordination in Pharma & Biotech engineering / IT / B2B service / FMCG & retail / digital & web marketing / tourism.</center>
+<center>This website may contain:</center>
 
 ## Articles about
-* Online marketing, SEO, VR, etc. Well that's kind of my job so..  ¯\_(ツ)_/¯
-* Opinions or reviews related to technology or softwares I like/test
-* Sports, training, competition, mainly around those I practise: trekking / hiking, swimming, mountain/road cycling, running, skiing
+* Digital marketing, SEO, VR, etc. Well, no surprise, that's kind of my current job so..  ¯\_(ツ)_/¯
+* Science, ICT, technology in general, software reviews, etc
+* Sports mainly around those I practise or follow: trekking / hiking, swimming, mountain/road cycling, running, skiing
 * Litterally anything else I'd like to write one of these days, it's my site after all. Get your own!
 
 ## CV & projects showcase
@@ -25,6 +25,7 @@ Speaking of which, here are some documents you can check:
 
 Here I'm supposed to warn you everything in this site belongs to me except what doesn't and you're supposed to know what you can (re)use or not. Worth mentioning too, that what I write only represents my point of view and all this kind of stuff, you know.
 Officially, this website uses the terms of the [MIT license](https://github.com/r-m-c-d/r-m-c-d.github.io/blob/master/LICENSE).
+The theme I use was forked from Taylan Tali's [Moon repository](https://github.com/TaylanTatli/Moon). Kudos to him for this smooth, gracious theme.
 
 ## Contact?
 Sure, hit me!    
