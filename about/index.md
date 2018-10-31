@@ -1,7 +1,7 @@
 ---
 layout: page
 title: In a few words
-tags: [about, Jekyll, theme, moon]
+tags: [about, RMCD, articles, CV]
 date: 2018-10-31
 comments: false
 ---
