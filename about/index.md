@@ -17,9 +17,9 @@ comments: false
 
 ## CV & projects showcase
 Quite obvious, since I'm looking for a job right now \o/. Speaking of which, here are some documents you may want to check (Gdrive PDF links):
-* [Generic Project & Business Administration](https://drive.google.com/open?id=1K3Eod-2f-WGaRSrlZVFVaAX_xSAv5b2I) detailed CV. [Contact me](mailto:romain.marchand@protonmail.ch) if you're looking for a specific, job or project versions of it.
-* [Written recommendations](https://drive.google.com/open?id=1WFMRN0ML64Edqv_lDy7kgSfd85cdYOJZ) from former coworkers or managers.  
-* This website's [projects page](https://r-m-c-d.github.io/projects/).
+* [Generic Project & Business Administration](https://drive.google.com/open?id=1K3Eod-2f-WGaRSrlZVFVaAX_xSAv5b2I) detailed CV. [Contact me](mailto:romain.marchand@protonmail.ch) if you're looking for a specific, job or project versions of it;  
+* [Written recommendations](https://drive.google.com/open?id=1WFMRN0ML64Edqv_lDy7kgSfd85cdYOJZ) from former coworkers or managers;    
+* This website's [projects page](https://r-m-c-d.github.io/projects/).  
 
 Great! Now I guess you just have to [hire me](mailto:romain.marchand@protonmail.ch) then!
 
