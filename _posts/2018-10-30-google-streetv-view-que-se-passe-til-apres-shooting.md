@@ -1,15 +1,11 @@
 ---
 layout: post
 title:  "Publication Google Street View Trusted: que se passe-t'il après le shooting?"
-published: true
 date:   2018-10-31
-excerpt: "Minimal, one column Jekyll theme for your blog."
-project: false
 tag:
 - digital marketing
 - SEO
 - google
-comments: false
 ---
 
 
