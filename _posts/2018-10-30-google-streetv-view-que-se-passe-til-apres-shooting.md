@@ -12,13 +12,12 @@ tag:
 
 
 # **Publication Google Street View Trusted: que se passe-t’il après le shooting?**
-
+##### *Certains clients me demandent souvent en quoi consistent les dessous de la création d’une visite virtuelle d’un établissement*.
 <center><figure>
 	<a href="https://cdn-images-1.medium.com/max/1600/1*a8hr3MRxAoxqAiE1QdE4sg.png"><img src="https://cdn-images-1.medium.com/max/1600/1*a8hr3MRxAoxqAiE1QdE4sg.png"></a>
 	<figcaption><a href="https://cdn-images-1.medium.com/max/1600/1*a8hr3MRxAoxqAiE1QdE4sg.png" title="Panoramique intérieur voiture"></a></figcaption>
 </figure></center>
 
-##### *Certains clients me demandent souvent en quoi consistent les dessous de la création d’une visite virtuelle d’un établissement*.
 
 Jour-J, on y est. Le photographe en charge du shooting des photos panoramiques
 vient d’arriver dans votre magasin et commence à préparer son matériel. Vous
