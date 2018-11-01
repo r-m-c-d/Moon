@@ -2,6 +2,7 @@
 layout: post
 title: Publication Google Street View Trusted: que se passe-t'il après le shooting?
 published: false
+feature: https://cdn-images-1.medium.com/max/640/1*GLe27zgcn7Su4WDpzpyJJQ.jpeg
 date: 2018-10-31
 tags: [digital marketing, SEO, google]
 ---
