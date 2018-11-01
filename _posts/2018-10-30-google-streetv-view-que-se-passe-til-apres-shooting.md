@@ -34,10 +34,8 @@ et il prend ses clichés sans se faire remarquer ni gêner les quelques clients
 présents dans votre établissement.
 
 *<p align="center">
-    <a href="https://medium.com/@Romain_Marchand/publication-google-street-view-trusted-que-se-passe-til-apr%C3%A8s-le-shooting-8b5417ce0307">Read more on medium...</a>
-    </p>*
-    
-[*Read more on medium...*](https://medium.com/@Romain_Marchand/publication-google-street-view-trusted-que-se-passe-til-apr%C3%A8s-le-shooting-8b5417ce0307)</p>
+    <a href="https://medium.com/@Romain_Marchand/publication-google-street-view-trusted-que-se-passe-til-apr%C3%A8s-le-shooting-8b5417ce0307">Read more on medium...</a></p>*
+
 
 
 
