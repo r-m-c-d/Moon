@@ -20,8 +20,8 @@ visite virtuelle. Tout se déroule parfaitement, le photographe est super sympa
 et il prend ses clichés sans se faire remarquer ni gêner les quelques clients
 présents dans votre établissement.
 
-<center>![](https://cdn-images-1.medium.com/max/640/1*GLe27zgcn7Su4WDpzpyJJQ.jpeg)
-<span class="figcaption_hack">Source: [google.com/streetview/earn/](https://www.google.com/streetview/earn/)</span></center>
+![](https://cdn-images-1.medium.com/max/640/1*GLe27zgcn7Su4WDpzpyJJQ.jpeg)
+<span class="figcaption_hack">Source: [google.com/streetview/earn/](https://www.google.com/streetview/earn/)</span>
 
 En l’observant, vous êtes curieux de savoir pourquoi il prend tant de photos
 sous tous les angles, pourquoi son boîtier photo est incliné à la verticale,
