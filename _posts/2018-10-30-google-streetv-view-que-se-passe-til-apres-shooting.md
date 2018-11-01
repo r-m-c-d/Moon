@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Publication Google Street View Trusted: que se passe-t'il après le shooting?
-published: true
 feature: https://cdn-images-1.medium.com/max/640/1*GLe27zgcn7Su4WDpzpyJJQ.jpeg
 date: 2018-10-31
 tags: [digital marketing, SEO, google]
@@ -28,6 +27,7 @@ et il prend ses clichés sans se faire remarquer ni gêner les quelques clients
 présents dans votre établissement.
 
 <p style="text-align: center;">  
+    
 [*Read more on medium...*](https://medium.com/@Romain_Marchand/publication-google-street-view-trusted-que-se-passe-til-apr%C3%A8s-le-shooting-8b5417ce0307)</p>
 
 
