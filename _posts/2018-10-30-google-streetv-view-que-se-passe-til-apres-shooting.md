@@ -11,7 +11,7 @@ tags: [digital marketing, SEO, google]
 
 <center><figure>
 	<a href="https://cdn-images-1.medium.com/max/1600/1*a8hr3MRxAoxqAiE1QdE4sg.png"><img src="https://cdn-images-1.medium.com/max/1600/1*a8hr3MRxAoxqAiE1QdE4sg.png"></a>
-	<figcaption><a href="https://cdn-images-1.medium.com/max/1600/1*a8hr3MRxAoxqAiE1QdE4sg.png" title="Panoramique intérieur voiture">Panoramique intérieur voiture</a>.</figcaption>
+	<figcaption><a href="https://cdn-images-1.medium.com/max/1600/1*a8hr3MRxAoxqAiE1QdE4sg.png" title="Panoramique intérieur voiture"></a>.</figcaption>
 </figure></center>
 
 #### *Certains clients me demandent souvent en quoi consistent les dessous de la création d’une visite virtuelle d’un établissement*.
@@ -26,4 +26,4 @@ visite virtuelle. Tout se déroule parfaitement, le photographe est super sympa
 et il prend ses clichés sans se faire remarquer ni gêner les quelques clients
 présents dans votre établissement.
 
-[Read more on Medium](https://medium.com/@Romain_Marchand/publication-google-street-view-trusted-que-se-passe-til-apr%C3%A8s-le-shooting-8b5417ce0307){: .btn}
+[Read more on Medium](https://medium.com/@Romain_Marchand/publication-google-street-view-trusted-que-se-passe-til-apr%C3%A8s-le-shooting-8b5417ce0307)
