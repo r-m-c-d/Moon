@@ -25,9 +25,11 @@ finalement tout ce que vous aurez à faire d’ici à la mise en ligne de
 votre
 visite virtuelle. Tout se déroule parfaitement, le photographe est super sympa
 et il prend ses clichés sans se faire remarquer ni gêner les quelques clients
-présents dans votre établissement.  
+présents dans votre établissement.
 
-[*Read more on medium...*](https://medium.com/@Romain_Marchand/publication-google-street-view-trusted-que-se-passe-til-apr%C3%A8s-le-shooting-8b5417ce0307)
+<p style="text-align: center;">
+    
+[*Read more on medium...*](https://medium.com/@Romain_Marchand/publication-google-street-view-trusted-que-se-passe-til-apr%C3%A8s-le-shooting-8b5417ce0307)</p>
 
 
 
