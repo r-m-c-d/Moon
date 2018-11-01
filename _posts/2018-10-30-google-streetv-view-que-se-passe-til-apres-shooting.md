@@ -14,7 +14,7 @@ tags: [digital marketing, SEO, google]
 	<figcaption><a href="https://cdn-images-1.medium.com/max/1600/1*a8hr3MRxAoxqAiE1QdE4sg.png" title="Panoramique intérieur voiture">Panoramique intérieur voiture</a>.</figcaption>
 </figure>
 
-## Certains clients me demandent souvent en quoi consistent les dessous de la création d’une visite virtuelle d’un établissement.
+#### *Certains clients me demandent souvent en quoi consistent les dessous de la création d’une visite virtuelle d’un établissement*.
 
 Jour-J, on y est. Le photographe en charge du shooting des photos panoramiques
 vient d’arriver dans votre magasin et commence à préparer son matériel. Vous
@@ -28,6 +28,8 @@ présents dans votre établissement.
 
 <a href="#" class="btn btn-success">Success Button</a>
 <div markdown="0"><a href="#" class="btn btn-success">Read more</a></div>
+
+[Read more](https://medium.com/@Romain_Marchand/publication-google-street-view-trusted-que-se-passe-til-apr%C3%A8s-le-shooting-8b5417ce0307){: .btn}
 
 
 
