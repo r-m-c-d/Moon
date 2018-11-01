@@ -111,7 +111,9 @@ prise dans le magasin, tout en respectant les points cardinaux, puis connecter
 chaque sphère avec une ou plusieurs autres de sorte que le cheminement final, à
 savoir la navigation avec les flèches dans Streetview, soit cohérente.
 
-<center>![](https://cdn-images-1.medium.com/max/480/1*Ile5ZNcUUfuB2jhLd3eRTw.gif)</center>
+<center>
+![Making constellation streetview](https://cdn-images-1.medium.com/max/480/1*Ile5ZNcUUfuB2jhLd3eRTw.gif)
+</center>
 
 Enfin, on répète l’opération à chaque étage, s’il y’en a. Cela complique un peu
 la chose, car il s’agit d’être encore plus certain du positionnement et de
@@ -134,7 +136,9 @@ vers Google Maps via l’API permettra de transférer cette constellation vers l
 services de Google, et quelques heures plus tard [la visite est en
 ligne](https://goo.gl/maps/fsohETiKkCP2), rattachée aux photos de votre fiche
 Google My Business:
-<center>![](https://cdn-images-1.medium.com/max/640/1*bLTDSiVGul_ShrGBh6exRw.gif)</center>
+<center>
+![google streetview tour published](https://cdn-images-1.medium.com/max/640/1*bLTDSiVGul_ShrGBh6exRw.gif)
+</center>
 
 Et voilà! Félicitations pour avoir franchi le pas et rejoint des centaines de
 milliers de commerces publiés de Google Street View! Vous serez très
