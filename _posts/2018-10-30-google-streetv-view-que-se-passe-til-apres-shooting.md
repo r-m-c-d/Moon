@@ -3,6 +3,7 @@ layout: post
 title:  "Publication Google Street View Trusted: que se passe-t'il après le shooting?"
 date:   2018-10-31
 excerpt: "Les dessous de la création d'une visite virtuelle d'entreprise sur Google"
+feature: https://cdn-images-1.medium.com/max/680/1*GLe27zgcn7Su4WDpzpyJJQ.jpeg
 tag:
 - digital marketing
 - SEO
