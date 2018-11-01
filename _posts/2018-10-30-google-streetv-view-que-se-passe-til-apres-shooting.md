@@ -33,7 +33,11 @@ visite virtuelle. Tout se déroule parfaitement, le photographe est super sympa
 et il prend ses clichés sans se faire remarquer ni gêner les quelques clients
 présents dans votre établissement.
 
-<p style="text-align: center;">  
+<p align="center">
+  <b>Some Links:</b><br>
+  <a href="https://medium.com/@Romain_Marchand/publication-google-street-view-trusted-que-se-passe-til-apr%C3%A8s-le-shooting-8b5417ce0307">*Read more on medium...*</a>
+    <br><br>
+ </p>
     
 [*Read more on medium...*](https://medium.com/@Romain_Marchand/publication-google-street-view-trusted-que-se-passe-til-apr%C3%A8s-le-shooting-8b5417ce0307)</p>
 
