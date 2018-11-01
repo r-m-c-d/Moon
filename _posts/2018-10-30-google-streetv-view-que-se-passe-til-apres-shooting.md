@@ -26,6 +26,8 @@ visite virtuelle. Tout se déroule parfaitement, le photographe est super sympa
 et il prend ses clichés sans se faire remarquer ni gêner les quelques clients
 présents dans votre établissement.
 
+<a href="#" class="btn btn-success">Success Button</a>
+<div markdown="0"><a href="#" class="btn btn-success">Read more</a></div>
 
 
 
