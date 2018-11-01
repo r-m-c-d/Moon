@@ -2,7 +2,7 @@
 layout: post
 title:  "Publication Google Street View Trusted: que se passe-t'il après le shooting?"
 date:   2018-10-31
-excerpt: "Les dessous de la création d'une visite virtuelle"
+excerpt: "Les dessous de la création d'une visite virtuelle d'entreprise sur Google"
 tag:
 - digital marketing
 - SEO
@@ -28,11 +28,8 @@ finalement tout ce que vous aurez à faire d’ici à la mise en ligne de
 votre
 visite virtuelle. Tout se déroule parfaitement, le photographe est super sympa
 et il prend ses clichés sans se faire remarquer ni gêner les quelques clients
-présents dans votre établissement.
-
-*<p align="center">
-    <a href="https://medium.com/@Romain_Marchand/publication-google-street-view-trusted-que-se-passe-til-apr%C3%A8s-le-shooting-8b5417ce0307">Read more on medium...</a>
-    </p>*
+présents dans votre établissement.  
+[*Read more on Medium...*](https://medium.com/@Romain_Marchand/publication-google-street-view-trusted-que-se-passe-til-apr%C3%A8s-le-shooting-8b5417ce0307")
 
 
 
