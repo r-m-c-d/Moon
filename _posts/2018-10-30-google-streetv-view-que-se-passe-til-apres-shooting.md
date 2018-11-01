@@ -17,8 +17,6 @@ tag:
 	<a href="https://cdn-images-1.medium.com/max/1600/1*a8hr3MRxAoxqAiE1QdE4sg.png"><img src="https://cdn-images-1.medium.com/max/1600/1*a8hr3MRxAoxqAiE1QdE4sg.png"></a>
 	<figcaption><a href="https://cdn-images-1.medium.com/max/1600/1*a8hr3MRxAoxqAiE1QdE4sg.png" title="Panoramique intérieur voiture"></a></figcaption>
 </figure></center>
-
-
 Jour-J, on y est. Le photographe en charge du shooting des photos panoramiques
 vient d’arriver dans votre magasin et commence à préparer son matériel. Vous
 êtes prêt, vous avez consciencieusement organisé certains produits à mettre en
