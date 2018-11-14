@@ -5,13 +5,14 @@ tags: [about, RMCD, articles, CV]
 date: 2018-10-31
 ---
     
-<center>I am a naturally curious, 'detail oriented realistic' profile and bachelor-level multilingual young professional, with +10 years working in Sales, Marketing, Customer Support, IT Support, Business Administration & Project Coordination in industries such as Pharma & Biotech engineering / IT / B2B & B2C service / FMCG & retail / digital & web marketing / tourism.</center>  
+I am a naturally curious, 'detail oriented realistic' profile and bachelor-level multilingual young professional, with +10 years working in Sales, Marketing, Customer Support, IT Support, Business Administration & Project Coordination in industries such as Pharma & Biotech engineering / IT / B2B & B2C service / FMCG & retail / digital & web marketing / tourism.    
 
-<center>Considered as a hard worker, I'm also an excellent team player and coordinator with good analytical mindset, a subtle blend of emotional balance, intuition & curiosity, and always eager to learn.</center>  
+Considered as a hard worker, I'm also an excellent team player and coordinator with good analytical mindset, a subtle blend of emotional balance, intuition & curiosity, and always eager to learn.   
     
-<center>I dedicate my spare time following latest ICT & tech trends, trying some geeky stuff on my Linux machines, striving to maintain my wobbly, unsound level on my guitar, or riding through majestic Swiss Alps on a bicycle, a motorbike, or a pair of skies, depending conditions..</center>  
+I dedicate my spare time following latest ICT & tech trends, trying some geeky stuff on my Linux machines, striving to maintain my wobbly, unsound level on my guitar, or riding through majestic Swiss Alps on a bicycle, a motorbike, or a pair of skies, depending conditions..  
 
-<center>“*Gold medals aren’t really made of gold. They’re made of sweat, determination, and a hard-to-find alloy called guts.*” (Dan Gable)</center>  
+> <center>“*Gold medals aren’t really made of gold. They’re made of sweat, determination, and a hard-to-find alloy called guts.*” (Dan Gable)  </center>  
+
 <center>In this website you may find:</center>
 
 ## Articles about
