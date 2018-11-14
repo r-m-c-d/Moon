@@ -11,8 +11,8 @@ Considered as a hard worker, I'm also an excellent team player and coordinator w
     
 I dedicate my spare time following latest ICT & tech trends, trying some geeky stuff on my Linux machines, striving to maintain my wobbly, unsound level on my guitar, or riding through majestic Swiss Alps on a bicycle, a motorbike, or a pair of skies, depending conditions..  
 
-> <center> *Gold medals aren’t really made of gold. They’re made of sweat, determination, and a hard-to-find alloy called guts* (Dan Gable)  </center>  
-
+> <center> *Gold medals aren’t really made of gold. They’re made of sweat, determination, and a hard-to-find alloy called guts (Dan Gable)  </center>   
+  
 <center>In this website you may find:</center>
 
 ## Articles about
