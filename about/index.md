@@ -13,7 +13,7 @@ I dedicate my spare time following latest ICT & tech trends, trying some geeky s
 
 > <center> Gold medals aren’t really made of gold. They’re made of sweat, determination, and a hard-to-find alloy called guts (Dan Gable)  </center>   
   
-<center>In this website you may find:</center>
+<center>  In this website you may find:  </center>  
 
 ## Articles about
 * Digital marketing, SEO, VR, etc. Well, no surprise, that's kind of my current job so.. ¯\_(ツ)_/¯
@@ -24,7 +24,7 @@ I dedicate my spare time following latest ICT & tech trends, trying some geeky s
 ## CV & projects showcase
 Obviously, since I'm actively searching right now.  
 Speaking of which, here are some documents you may want to check (Gdrive PDF links):
-* [Project & Business Administration](https://drive.google.com/open?id=1K3Eod-2f-WGaRSrlZVFVaAX_xSAv5b2I) detailed CV. This a generic version and personal details have been deleted, so feel free to [connect and contact me on LinkedIn](https://www.linkedin.com/in/marchandromain/) if you're looking for a specific job/project version of it;  
+* [Digital & IT Project Coordinator](https://drive.google.com/open?id=1K3Eod-2f-WGaRSrlZVFVaAX_xSAv5b2I) detailed CV. This a generic version and personal details have been deleted, so feel free to [connect and contact me on LinkedIn](https://www.linkedin.com/in/marchandromain/) if you're looking for a specific job/project version of it;  
 * [Written recommendations](https://drive.google.com/open?id=1WFMRN0ML64Edqv_lDy7kgSfd85cdYOJZ) from former coworkers or managers;    
 * This website's [projects page](https://r-m-c-d.github.io/projects/).  
 
