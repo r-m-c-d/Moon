@@ -3,8 +3,8 @@ layout: post
 title: Nimiq mining on Google Cloud, an updated guide
 date: 2018-11-19
 excerpt: "A begineer friendly detailed tutorial to use the most of your GCE free credits."
-feature: https://cdn-images-1.medium.com/max/1800/1*wYIJjpgZNJ8csQHCGtPs7A.png
 project: true
+feature: https://cdn-images-1.medium.com/max/1800/1*wYIJjpgZNJ8csQHCGtPs7A.png
 tags: [english, crypto, mining, linux, cloud]
 ---
 
