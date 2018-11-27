@@ -3,12 +3,13 @@ layout: post
 title: Being a freelancer: what recruiters think you do vs. what you actually do.
 date: 2018-11-16
 excerpt: "This is no secret that I’m actively looking for a job — as of right now at least. And in a few interviews I’ve recently landed, a recurrent “question”, not to say an obvious concern, came up from my interviewers once in a while."
+project: false
 feature: https://cdn-images-1.medium.com/max/1800/1*N8cxNGALRC48bvaBzWuHKg.png
 tag:
 - english 
 - freelancing 
 - jobs 
-- recruitment]
+- recruitment
 ---
 
 # **Being a freelancer: what recruiters think you do vs. what you actually do.**
