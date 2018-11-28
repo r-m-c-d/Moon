@@ -6,7 +6,7 @@ reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.jpg'
 background:         'assets/img/background.jpg'
-tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
+tiled_bg:           false   # True to tile background image, otherwise stays covered
 locale:             en_US
 url:                https://r-m-c-d.github.io/
 rss:                true
@@ -31,15 +31,13 @@ sass:
 # Comments
 #disqus_shortname:   
 
-Social:             https://r-m-c-d.github.io/feed.xml
-# if you don't have any of social below, comment the line.
+#Social
 #google:
   #plus:            #username
   #analytics:
   #verify:
   #ad-client:
   #ad-slot:
-#bing-verify:
 twitter:            Roman0oO
 #facebook:           username
 #github-url:         r-m-c-d
@@ -49,7 +47,6 @@ medium:            '@Romain_Marchand'
 #email:              
 #youtube:           username
 #youtube-channel:   channel
-#flickr:            username
 
 
 # Gems
