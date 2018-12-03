@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Local SEO: the Moz 2018 Ranking Report
-date: 2018-11-19
-excerpt: "A quick review or Moz.com new ranking report"
+title: "Local SEO: the Moz 2018 Ranking Report"
+date: 2018-11-29
+excerpt: "A quick review of Moz.com new ranking report"
 feature: https://i.ibb.co/kXKkgR2/google-SEO-search-ranking-chrome.jpg
 tag:
 - english 
@@ -18,8 +18,9 @@ tag:
 	<figcaption><a href="https://moz.com/local-search-ranking-factors"   
     title="Moz 2018 Local Search Ranking Factors report">Moz 2018 Local Search Ranking Factors report</a>.</figcaption>
 </figure>  
-
-  _article in collaboration with [3Pack consulting](https://3pack.ch)_
+  
+  
+  _article in collaboration with [3Pack consulting](https://3pack.ch)_  
 
 #### *The Local Ranking Report for 2018 has just been released by Moz.com. As in previous years, Google is increasingly focusing on completing the Google my Business Account.*
 
