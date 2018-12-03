@@ -16,9 +16,9 @@ tag:
 	<a href="https://66.media.tumblr.com/78951c83c36d0ddf3d71a530e1be7a88/tumblr_piuee5iE9C1xr7v1no1_1280.jpg"><img src="https://66.media.tumblr.com/78951c83c36d0ddf3d71a530e1be7a88/tumblr_piuee5iE9C1xr7v1no1_1280.jpg"></a>
 	<figcaption><a href="https://moz.com/local-search-ranking-factors"   
     title="Moz 2018 Local Search Ranking Factors report">Moz 2018 Local Search Ranking Factors report</a>.</figcaption>
-</figure>
+</figure>  
 
-_article in collaboration with [3Pack consulting](https://3pack.ch)_
+  _article in collaboration with [3Pack consulting](https://3pack.ch)_
 
 #### The Local Ranking Report for 2018 has just been released by Moz.com. As in previous years, Google is increasingly focusing on completing the Google my Business Account.
 
