@@ -3,7 +3,6 @@ layout: post
 title: Local SEO: the Moz 2018 Ranking Report
 date: 2018-11-19
 excerpt: "A quick review or Moz.com new ranking report"
-project: false
 feature: https://i.ibb.co/kXKkgR2/google-SEO-search-ranking-chrome.jpg
 tag: 
 - english 
@@ -15,7 +14,8 @@ tag:
 
 <figure>
 	<a href="https://66.media.tumblr.com/78951c83c36d0ddf3d71a530e1be7a88/tumblr_piuee5iE9C1xr7v1no1_1280.jpg"><img src="https://66.media.tumblr.com/78951c83c36d0ddf3d71a530e1be7a88/tumblr_piuee5iE9C1xr7v1no1_1280.jpg"></a>
-	<figcaption><a href="https://moz.com/local-search-ranking-factors" title="Moz 2018 Local Search Ranking Factors report">Moz 2018 Local Search Ranking Factors report</a>.</figcaption>
+	<figcaption><a href="https://moz.com/local-search-ranking-factors"   
+    title="Moz 2018 Local Search Ranking Factors report">Moz 2018 Local Search Ranking Factors report</a>.</figcaption>
 </figure>
 
 _article in collaboration with [3Pack consulting](https://3pack.ch)_
