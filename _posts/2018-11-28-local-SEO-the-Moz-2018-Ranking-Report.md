@@ -3,7 +3,7 @@ layout: post
 title: "Local SEO: the Moz 2018 Ranking Report"
 date: 2018-11-29
 excerpt: "A quick review of Moz.com new ranking report"
-feature: https://i.ibb.co/kXKkgR2/google-SEO-search-ranking-chrome.jpg
+feature: https://i.ibb.co/SQPVGPp/google-SEO-search-ranking-chrome.jpg
 tag:
 - english 
 - SEO
