@@ -11,7 +11,7 @@ Considered a hard worker, I'm also an excellent team player and coordinator with
     
 I dedicate my spare time following latest ICT & tech trends, trying some geeky stuff on my Linux machines, collecting old laptops to give them a second life and offering them to people in need, striving to maintain my wobbly, unsound level on my guitar, or riding through majestic Swiss Alps on a bicycle, a motorbike, or a pair of skies, depending conditions..     
   
-<center>  In this website you may find:  </center>  
+In this website you may find:   
 
 ## Articles about
 * Digital marketing, SEO, VR, etc. Well, no surprise, that's kind of my current job so.. ¯\_(ツ)_/¯
