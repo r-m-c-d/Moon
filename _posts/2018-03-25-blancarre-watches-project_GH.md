@@ -25,8 +25,8 @@ After several months of development between 2015 and 2016, their former supplier
 
 Then came my mission to take over everything from scratch, analyse the feasibility and cost to put the project back on track, deliver a properly streamlined database and a working prototype, and *de facto* save my customer's initial consquent investment. The integration into [Blancarré's website](http://www.blancarre.com/landing/fr/index.html) would later on be made in collaboration with Blancarré's renowned digital agency [Openroom](https://www.openroom.ch/home).
 
-![watch model render before 360 plugin](https://cdn-images-1.medium.com/max/720/1*_zpMcRQrjiQq9SfkTVisgA.png) 
-*Example of a watch model elements before 360° slider process*
+![watch model render before 360 plugin](https://cdn-images-1.medium.com/max/720/1*_zpMcRQrjiQq9SfkTVisgA.png)   
+->*Example of a watch model elements before 360° slider process*<-
 
 ##### Hands-on: approach & main achievements:
 
