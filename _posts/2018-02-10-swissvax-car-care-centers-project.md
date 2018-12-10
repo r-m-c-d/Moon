@@ -3,7 +3,7 @@ layout: post
 title: 'Projects Portfolio: Swissvax Car Care Centers'
 date: 2018-02-10
 excerpt: "Digital pack with 360° interactive strategy to grow user engagement"
-feature: https://drive.google.com/open?id=1oEwLReWAEU6h2k2OjEjEitSWZO1eatuk
+feature: http://oi63.tinypic.com/dis.jpg
 project: true
 tags: [english, digital, 360, VR, google, SEO, portfolio]
 ---
@@ -27,7 +27,7 @@ In the case of Swissvax centers, we also voluntarily shoot inside beautiful car 
 - Hands-on: creation and setup of many elements (Youtube, Analytics, Facebook) and of all 360° platform; creation and development of websites, hosting and domains when necessary; embedding frames into websites; creation and securing of relevant Google Maps API keys; etc
 - Managed time, quality and transparent communication
 
-![swissvax-center-glarus-porsche-delta-martini](https://drive.google.com/open?id=1KQR9r9WaoDU455lBuT3ljmNgkUwYFBIt) 
+![swissvax-center-glarus-porsche-delta-martini](http://oi63.tinypic.com/2r5gby9.jpg) 
 *View of Swissvax Certified Car Care Center in Glarus - [see website](http://www.swissvax-certified-car-care-center-glarus.ch)*
 
 ##### Technical environment and methodologies:
@@ -39,7 +39,7 @@ In the case of Swissvax centers, we also voluntarily shoot inside beautiful car 
 
 ##### A quick look at some deliverables:
 
-| ![swissvax-hq-inside-car-care](https://drive.google.com/file/d/1_uqXHpjJWTZlN9x_cfSEpUDq8fJnls9A/view) | 
+| ![swissvax-hq-inside-car-care](http://oi66.tinypic.com/2eqgjlx.jpg) | 
 |:--:| 
 | *[Swissvax Headquarter, Fällanden:](https://www.swissvax.ch/flagship-car-care-center/index.php)* |
 
@@ -47,7 +47,7 @@ In the case of Swissvax centers, we also voluntarily shoot inside beautiful car 
 - GMB review pack
 
 
-| ![swissvax-glarus-website-interactive-tour](https://drive.google.com/open?id=1MYQIAoRlR8LYoj-8NMh6-hEoMC4m1MOz) | 
+| ![swissvax-glarus-website-interactive-tour](http://oi63.tinypic.com/121y1co.jpg) | 
 |:--:| 
 | *[Swissvax center Glarus](http://www.swissvax-certified-car-care-center-glarus.ch/)* |
 
@@ -69,7 +69,7 @@ In the case of Swissvax centers, we also voluntarily shoot inside beautiful car 
 - Google Streetview publish
 - full interactive virtual tour
 
-| ![swissvax-basel-website-interactive-tour](https://drive.google.com/open?id=1yhUkw77s5KiNqJJ1adTiGbg_T-JDqfhK) | 
+| ![swissvax-basel-website-interactive-tour](http://oi68.tinypic.com/fwqhkg.jpg) | 
 |:--:| 
 | *[Swissvax Basel](http://www.swissvax-basel.ch/)* |
 
