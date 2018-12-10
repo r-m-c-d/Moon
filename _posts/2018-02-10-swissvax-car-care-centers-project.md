@@ -70,7 +70,7 @@ In the case of Swissvax centers, we also voluntarily shoot inside beautiful car 
 - full interactive virtual tour
 
 [Swissvax Ufenau-Zürichsee](https://www.swissvax-ufenau.ch/)
-[swissvax-zuerichsee-interactive-tour.png](https://postimg.cc/JHckVXt4)
+![swissvax-zuerichsee-interactive-tour.png](https://postimg.cc/JHckVXt4)
 - existing website edits & virtual tour embed (CMS: Jimdo)
 - Google Analytics setup & review pack
 - Youtube channel creation & branding, video upload
