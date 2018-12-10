@@ -25,13 +25,9 @@ After several months of development between 2015 and 2016, their former supplier
 
 Then came my mission to take over everything from scratch, analyse the feasibility and cost to put the project back on track, deliver a properly streamlined database and a working prototype, and *de facto* save my customer's initial consquent investment. The integration into [Blancarré's website](http://www.blancarre.com/landing/fr/index.html) would later on be made in collaboration with Blancarré's renowned digital agency [Openroom](https://www.openroom.ch/home).
 
-
-{:.center}
 ![watch model render before 360 plugin](https://cdn-images-1.medium.com/max/720/1*_zpMcRQrjiQq9SfkTVisgA.png) 
 *Example of a watch model elements before 360° slider process*
-.center {
-  text-align: center;
-}
+
 ##### Hands-on: approach & main achievements:
 
 This project was very different from the 360° interactive virtual tours I usually create ([such as this](https://www.tourmake.it/de/tour/f41a67a2761ed41b84806b991b31431e)), since instead of shooting actual DSLR pictures, stitching them into 360x180 panos (process I detailed [in this article](https://medium.com/@Romain_Marchand/publication-google-street-view-trusted-que-se-passe-til-apr%C3%A8s-le-shooting-8b5417ce0307)) and then develop interactive content based on the existing Google Streetview tour through an external platform, here the Blancarré shop physically doesn't exist at all. Hence everything has been digitally created from scratch. The shop is a 3D modelled room with product displays and reception desk, later on colourised and completed with 360° elements and embedded video content.
