@@ -15,7 +15,7 @@ tags: [english, digital, 360, VR, portfolio]
 
 Blancarré is a young Swiss made watches manufacturer founded by Nicolas Mertenat, former lead designer at Omega and other watchmakers (see [founder's interview](https://www.youtube.com/watch?time_continue=1&v=FhHxM7p89N8) and [press coverage](http://blancarre.com/shop/content/11-presse)).  
 
-*This article was first drafted as a project wrap up after handover and is also [published on Medium](https://medium.com/@Romain_Marchand/projects-portfolio-blancarr%C3%A9-virtual-shop-9875abc69832) in a much detailed and imaged version.*
+*This article was first drafted as a project wrap up after project handover in March 2018 and was also [published on Medium](https://medium.com/@Romain_Marchand/projects-portfolio-blancarr%C3%A9-virtual-shop-9875abc69832) in a much detailed and imaged version.*
 
 ##### Context
 Founder's vision is to use the most of newest digital technologies to leverage his product presence and corporate identity and stand out from other watchmakers.  
