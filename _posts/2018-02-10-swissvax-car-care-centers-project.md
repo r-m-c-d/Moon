@@ -39,13 +39,18 @@ In the case of Swissvax centers, we also voluntarily shoot inside beautiful car 
 
 ##### A quick look at some deliverables:
 
-[Swissvax Headquarter, Fällanden:](https://www.swissvax.ch/flagship-car-care-center/index.php)
-![swissvax-hq-inside-car-care](https://drive.google.com/open?id=1_uqXHpjJWTZlN9x_cfSEpUDq8fJnls9A)
+| ![swissvax-hq-inside-car-care](https://drive.google.com/open?id=1_uqXHpjJWTZlN9x_cfSEpUDq8fJnls9A) | 
+|:--:| 
+| *[Swissvax Headquarter, Fällanden:](https://www.swissvax.ch/flagship-car-care-center/index.php)* |
+
 - Finishing and publication of interactive virtual tour,
 - GMB review pack
 
-[Swissvax center Glarus, CH](http://www.swissvax-certified-car-care-center-glarus.ch/)
-![swissvax-glarus-website-interactive-tour](https://drive.google.com/open?id=1MYQIAoRlR8LYoj-8NMh6-hEoMC4m1MOz)
+
+| ![swissvax-glarus-website-interactive-tour](https://drive.google.com/open?id=1MYQIAoRlR8LYoj-8NMh6-hEoMC4m1MOz) | 
+|:--:| 
+| *[Swissvax center Glarus](http://www.swissvax-certified-car-care-center-glarus.ch/)* |
+
 - full website (CMS: Wordpress), DB & hosting management
 - GMB, review pack, Google Analytics setup
 - Youtube channel creation & branding, video upload
@@ -53,7 +58,7 @@ In the case of Swissvax centers, we also voluntarily shoot inside beautiful car 
 - Google Streetview publish
 - full interactive virtual tour
 
-[Swissvax center Limmattal, CH](http://swissvax-certified-car-care-center-limmattal.ch/)
+[Swissvax center Limmattal](http://swissvax-certified-car-care-center-limmattal.ch/)
 ![swissvax-limmattal-website-interactive-tour](https://drive.google.com/open?id=1Jy4h8Teq-ZhlR1EPVwdwnkv7hM4GCWPe)
 - full website (CMS: Wordpress), DB & hosting management
 - GMB, review pack, Google Analytics setup
