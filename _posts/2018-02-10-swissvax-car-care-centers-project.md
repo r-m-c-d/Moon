@@ -39,7 +39,7 @@ In the case of Swissvax centers, we also voluntarily shoot inside beautiful car 
 
 ##### A quick look at some deliverables:
 
-| ![swissvax-hq-inside-car-care](https://drive.google.com/open?id=1_uqXHpjJWTZlN9x_cfSEpUDq8fJnls9A) | 
+| ![swissvax-hq-inside-car-care](https://drive.google.com/file/d/1_uqXHpjJWTZlN9x_cfSEpUDq8fJnls9A/view) | 
 |:--:| 
 | *[Swissvax Headquarter, Fällanden:](https://www.swissvax.ch/flagship-car-care-center/index.php)* |
 
@@ -58,7 +58,7 @@ In the case of Swissvax centers, we also voluntarily shoot inside beautiful car 
 - Google Streetview publish
 - full interactive virtual tour
 
-| ![swissvax-limmattal-website-interactive-tour](https://drive.google.com/open?id=1Jy4h8Teq-ZhlR1EPVwdwnkv7hM4GCWPe) | 
+| ![swissvax-limmattal-website-interactive-tour](http://oi64.tinypic.com/9kmsew.jpg) | 
 |:--:| 
 | *[Swissvax center Limmattal](http://swissvax-certified-car-care-center-limmattal.ch/)* |
 
@@ -78,7 +78,7 @@ In the case of Swissvax centers, we also voluntarily shoot inside beautiful car 
 - Facebook page creation & branding
 - full interactive virtual tour
 
-| ![swissvax-zuerichsee-interactive-tour.png](https://postimg.cc/JHckVXt4) | 
+| ![swissvax-zuerichsee-interactive-tour.png](http://oi68.tinypic.com/2vs419z.jpg) | 
 |:--:| 
 | *[Swissvax Ufenau-Zürichsee](https://www.swissvax-ufenau.ch/)* |
 
