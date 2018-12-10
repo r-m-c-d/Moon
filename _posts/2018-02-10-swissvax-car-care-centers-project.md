@@ -39,9 +39,6 @@ In the case of Swissvax centers, we also voluntarily shoot inside beautiful car 
 
 ##### A quick look at some deliverables:
 
-Test
-![nut](https://cloud.disroot.org/s/odmxn8t8DSrf9d8)
-
 [Swissvax Headquarter, Fällanden:](https://www.swissvax.ch/flagship-car-care-center/index.php)
 ![swissvax-hq-inside-car-care](https://cloud.disroot.org/s/dE9YiQHRfKZY37J)
 - Finishing and publication of interactive virtual tour,
