@@ -19,7 +19,7 @@ _This project was realised under the banner of my partner [3Pack Consulting](htt
 
 The concept of most projects we do at 3Pack Consulting consists in increasing local ranking of companies by providing sort of a "digital pack" with focus on Google My Business listing, SEO oriented local website (= in addition to HQ/corporate website when there is one) and an embedded interactive virtual tour, which has proven many times impressive user average time spent on pages we manage. As the 3Pack anme implies, the goal is to rank our customers in the so-called Google 3-pack, the 3 first results Google highlights after a search.
 In the case of Swissvax centers, we also voluntarily shoot inside beautiful car to better immerse the user into the inside leather care environment. Look, see yourself inside this stunning Porsche at Zuerichsee center: 
-![swissvax-zuerichsee-interactive-tour-inside-car](https://drive.google.com/open?id=1kbig4TjEKohJ9E1kcrBVMGEf-f0Yv67X)
+![swissvax-zuerichsee-interactive-tour-inside-car](http://oi63.tinypic.com/3149gzn.jpg)
 
 ##### Approach & main achievements:
 
