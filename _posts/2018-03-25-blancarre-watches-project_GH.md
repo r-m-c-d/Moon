@@ -10,14 +10,13 @@ tags: [english, digital, 360, VR, portfolio]
 
 # Projects portfolio
 ## Blancarré Watches
-##### Role: Project manager
-##### Period: 07.2017 – 03.2018
+#### Role: Project manager - Period: 07.2017 – 03.2018
 
 Blancarré is a young Swiss made watches manufacturer founded by Nicolas Mertenat, former lead designer at Omega and other watchmakers (see [founder's interview](https://www.youtube.com/watch?time_continue=1&v=FhHxM7p89N8) and [press coverage](http://blancarre.com/shop/content/11-presse)).  
 
 *This article was first drafted as a project wrap up after project handover in March 2018 and was also [published on Medium](https://medium.com/@Romain_Marchand/projects-portfolio-blancarr%C3%A9-virtual-shop-9875abc69832) in a much detailed and imaged version.*
 
-##### Context
+#### Context
 Founder's vision is to use the most of newest digital technologies to leverage his product presence and corporate identity and stand out from other watchmakers.  
 
 An external digital agency was initially contracted to design a tailormade interactive shop featuring watches products range as interactive elements and embedded videos of receptionnist and watchmaker at work to make the user feel just like in a traditional shop through a unique user experience. 
@@ -28,7 +27,7 @@ Then came my mission to take over everything from scratch, analyse the feasibili
 ![watch model render before 360 plugin](https://cdn-images-1.medium.com/max/720/1*_zpMcRQrjiQq9SfkTVisgA.png)   
 *Example of a watch model elements before 360° slider process*
 
-##### Hands-on: approach & main achievements:
+#### Hands-on: approach & main achievements:
 
 This project was very different from the 360° interactive virtual tours I usually create ([such as this](https://www.tourmake.it/de/tour/f41a67a2761ed41b84806b991b31431e)), since instead of shooting actual DSLR pictures, stitching them into 360x180 panos (process I detailed [in this article](https://medium.com/@Romain_Marchand/publication-google-street-view-trusted-que-se-passe-til-apr%C3%A8s-le-shooting-8b5417ce0307)) and then develop interactive content based on the existing Google Streetview tour through an external platform, here the Blancarré shop physically doesn't exist at all. Hence everything has been digitally created from scratch. The shop is a 3D modelled room with product displays and reception desk, later on colourised and completed with 360° elements and embedded video content.
 
@@ -48,7 +47,7 @@ delivered a working project, with an error-free code and a smoother database rad
 ![blender view virtual shop structure](https://cdn-images-1.medium.com/max/900/1*EamYQTMdmkp5ZvNF_E6V6w.png)
 *Shop structure view in Blender*
 
-##### Technical environment and methodologies:
+#### Technical environment and methodologies:
 
 - **web technologies**: WebGL, HTML5, CSS, jQuery libraries, JS plugins (such as [ThreeSixty slider](https://github.com/creativeaura/threesixty-slider)), WebM, etc
 - **multiple softwares**: Blender (3D design), Photoshop, KRpano / Panotour Pro (virtual tour development), Hugin (panoramic image assembler), develope mode web browser
