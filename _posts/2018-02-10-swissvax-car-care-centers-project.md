@@ -58,8 +58,10 @@ In the case of Swissvax centers, we also voluntarily shoot inside beautiful car 
 - Google Streetview publish
 - full interactive virtual tour
 
-[Swissvax center Limmattal](http://swissvax-certified-car-care-center-limmattal.ch/)
-![swissvax-limmattal-website-interactive-tour](https://drive.google.com/open?id=1Jy4h8Teq-ZhlR1EPVwdwnkv7hM4GCWPe)
+| ![swissvax-limmattal-website-interactive-tour](https://drive.google.com/open?id=1Jy4h8Teq-ZhlR1EPVwdwnkv7hM4GCWPe) | 
+|:--:| 
+| *[Swissvax center Limmattal](http://swissvax-certified-car-care-center-limmattal.ch/)* |
+
 - full website (CMS: Wordpress), DB & hosting management
 - GMB, review pack, Google Analytics setup
 - Youtube channel creation & branding, video upload
@@ -67,15 +69,19 @@ In the case of Swissvax centers, we also voluntarily shoot inside beautiful car 
 - Google Streetview publish
 - full interactive virtual tour
 
-[Swissvax Basel](http://www.swissvax-basel.ch/)
-![swissvax-basel-website-interactive-tour](https://drive.google.com/open?id=1yhUkw77s5KiNqJJ1adTiGbg_T-JDqfhK)
+| ![swissvax-basel-website-interactive-tour](https://drive.google.com/open?id=1yhUkw77s5KiNqJJ1adTiGbg_T-JDqfhK) | 
+|:--:| 
+| *[Swissvax Basel](http://www.swissvax-basel.ch/)* |
+
 - existing website edits & virtual tour embed (CMS: Wordpress)
 - Youtube channel creation & branding, video upload
 - Facebook page creation & branding
 - full interactive virtual tour
 
-[Swissvax Ufenau-Zürichsee](https://www.swissvax-ufenau.ch/)
-![swissvax-zuerichsee-interactive-tour.png](https://postimg.cc/JHckVXt4)
+| ![swissvax-zuerichsee-interactive-tour.png](https://postimg.cc/JHckVXt4) | 
+|:--:| 
+| *[Swissvax Ufenau-Zürichsee](https://www.swissvax-ufenau.ch/)* |
+
 - existing website edits & virtual tour embed (CMS: Jimdo)
 - Google Analytics setup & review pack
 - Youtube channel creation & branding, video upload
