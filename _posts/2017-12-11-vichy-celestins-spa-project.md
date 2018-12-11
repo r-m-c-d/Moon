@@ -12,6 +12,7 @@ tags: [english, digital, 360, video, VR, google, portfolio]
 **Role**: Project manager, tech lead, videographer, sound recorder
 **Project**: Digital medias creation, 360° VR video and photo 
 **Period**: 11.2016 - 01.2017
+
 ---
 #### Context
 With 11 thermal water sources and a surface of 7000m2, the Vichy Célestins Spa, founded in 1853, is the biggest spa area in Europe. 
