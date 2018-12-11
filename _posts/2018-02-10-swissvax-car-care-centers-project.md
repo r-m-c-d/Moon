@@ -8,11 +8,10 @@ project: true
 tags: [english, digital, 360, VR, google, SEO, portfolio]
 ---
 
-# Projects portfolio
-## Swissvax Car Care Centers
-##### Role: Project manager, tech lead
-##### Period: 09.2017 – 02.2018
-
+# Projects portfolio: Swissvax Car Care Centers
+### Role: Project manager, tech lead
+### Period: 09.2017 – 02.2018
+---
 Swissvax is a worldwide active retailing and car care group and manufacturer of its own wax for cars and yachts care. Their customer loyalty is very decent and stable, but they needed to reach people more widely around their local subsidiaries. My role for them was to lead a local SEO pilot project first for their swiss headquarter which was later extended to several subsidiaries (Glarus, Zürich, Basel, Limmattal), mixing traditional & digital marketing (ranking, Google My Business, Facebook, local websites, Youtube channels, etc) and my 360° content specialities (interactive virtual tours based on Google Streetview) in order to grow online presence and user onpage retention.   
 
 _This project was realised under the banner of my partner [3Pack Consulting](https://www.3pack.ch/), contractor here, and assigned to me._
