@@ -8,9 +8,12 @@ project: true
 tags: [english, digital, 360, VR, portfolio]
 ---
 
-# Projects portfolio
-## Blancarré Watches
-#### Role: Project manager - Period: 07.2017 – 03.2018
+# Projects portfolio: Blancarré Watches
+**Role**: Project manager - 
+**Project**: Virtual shop, digital content, web development, VR, 3D 
+**Period**: 07.2017 – 03.2018
+
+---
 
 Blancarré is a young Swiss made watches manufacturer founded by Nicolas Mertenat, former lead designer at Omega and other watchmakers (see [founder's interview](https://www.youtube.com/watch?time_continue=1&v=FhHxM7p89N8) and [press coverage](http://blancarre.com/shop/content/11-presse)).  
 
