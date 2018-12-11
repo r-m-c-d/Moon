@@ -9,8 +9,10 @@ tags: [english, digital, 360, VR, google, SEO, portfolio]
 ---
 
 # Projects portfolio: Swissvax Car Care Centers
-### Role: Project manager, tech lead
-### Period: 09.2017 – 02.2018
+**Role**: Project manager, tech lead
+**Project**: digital marketing & interactive content, 360° imaging, Analytics & Social Medias
+**Period**: 09.2017 – 02.2018
+
 ---
 Swissvax is a worldwide active retailing and car care group and manufacturer of its own wax for cars and yachts care. Their customer loyalty is very decent and stable, but they needed to reach people more widely around their local subsidiaries. My role for them was to lead a local SEO pilot project first for their swiss headquarter which was later extended to several subsidiaries (Glarus, Zürich, Basel, Limmattal), mixing traditional & digital marketing (ranking, Google My Business, Facebook, local websites, Youtube channels, etc) and my 360° content specialities (interactive virtual tours based on Google Streetview) in order to grow online presence and user onpage retention.   
 
@@ -21,7 +23,7 @@ In the case of Swissvax centers, we also voluntarily shoot inside beautiful car 
 Look, see yourself inside this stunning Porsche at [Zuerichsee center](http://tourmake.it/de/tour/e0cb705fe9262186e4b5833013fd0533): 
 ![swissvax-zuerichsee-interactive-tour-inside-car](http://oi63.tinypic.com/3149gzn.jpg)
 
-##### Approach & main achievements:
+#### Approach & main achievements:
 
 - Project management: created project plan, planning estimation, coordination of web developer
 - Hands-on: creation and setup of many elements (Youtube, Analytics, Facebook) and of all 360° platform; creation and development of websites, hosting and domains when necessary; embedding frames into websites; creation and securing of relevant Google Maps API keys; etc
@@ -30,14 +32,14 @@ Look, see yourself inside this stunning Porsche at [Zuerichsee center](http://to
 ![swissvax-center-glarus-porsche-delta-martini](http://oi63.tinypic.com/2r5gby9.jpg) 
 *View of Swissvax Certified Car Care Center in Glarus - [see website](http://www.swissvax-certified-car-care-center-glarus.ch)*
 
-##### Technical environment and methodologies:
+#### Technical environment and methodologies:
 
 - CMS: Wordpress & Jimdo, mostly HTML language and a few Javascripts
 - Google products: Analytics, Tag manager, Youtube, etc
 - Tourmake interactive virtual tour development platform (*all interactive tours are [visible here](http://3pack-consulting.tourmake.it/)*)
 - Traditional, waterfall-like project management model
 
-##### A quick look at some deliverables:
+#### A quick look at some deliverables:
 
 | ![swissvax-hq-inside-car-care](http://oi66.tinypic.com/2eqgjlx.jpg) | 
 |:--:| 
