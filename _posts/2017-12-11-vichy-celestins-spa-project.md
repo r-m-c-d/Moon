@@ -9,11 +9,11 @@ tags: [english, digital, 360, video, VR, google, portfolio]
 ---
 
 # Projects portfolio: Vichy Célestins Spa Hotel
-#### Role: Project manager, tech lead, videographer, sound recorder
-#### Project: Digital medias creation, 360° VR video and photo 
-#### Period: 11.2016 - 01.2017
+**Role**: Project manager, tech lead, videographer, sound recorder
+**Project**: Digital medias creation, 360° VR video and photo 
+**Period**: 11.2016 - 01.2017
 ---
-##### Context
+#### Context
 With 11 thermal water sources and a surface of 7000m2, the Vichy Célestins Spa, founded in 1853, is the biggest spa area in Europe. 
 Contacted by the Operations Director to create innovative digital projects allowing to smoothly blend Vichy's traditional thermal & wellness image into modern 360° & digital technologies, my role was to:
 - implement a Google Streetview virtual tour linked with [company's Google My Business profile](https://goo.gl/maps/Lp9WQNJwtA72) to leverage their global & local SEO
@@ -27,7 +27,7 @@ Emphasis is given to the personalisation of the project, meaning that it's not j
 |:--:| 
 | *Aerial view with corporate background banner I realised for the 360° video* |
 
-##### Project details
+#### Project details
 The video will first be confidentially released in order to present it exclusively to luxury hotels & journalists on a hospitality industry congress that would occur a few weeks after, before being publicly visible on Youtube. The project deadline was therefore very tight: between the shooting days, heavy post editing and version releases, and the final approved version, the video had to be delivered in less than a month! The Google Streetview part was less urgent but has been delivered in the following weeks nonetheless. 
 
 Before that, effective communication and collaboration with the customer led us to write a precise storyboard and anticipate on-site coordination: book areas at certain times with low customer presence, book company's employees as figuring staff & coordinate with their job hours, edit a detailed agenda for each figuring, book spa & massage rooms for live care sessions staging & shooting, etc.
@@ -37,7 +37,7 @@ We also had to decide which areas to focus on and eliminate a few others. For al
 
 I had to fit 22 video scenes shootings and thousands square meters of panoramic photography shooting areas shootings into the only 2 days we had on site, together with the photograph and the figuring staff, while staying inobtrusive towards present customers. Background soundtrack and corporate identity material were provided by the customer.
 
-##### Roles & credits
+#### Roles & credits
 - Project managers: Philippe Magne (*Operations Director, Compagnie de Vichy*) & Romain Marchand
 - Marketing material & figuring actors coordination: Florence Rochelois (*Communication & Marketing, Compagnie de Vichy*)
 - Storyboard co-writers: Philippe Magne & Romain Marchand
@@ -54,7 +54,7 @@ I had to fit 22 video scenes shootings and thousands square meters of panoramic 
 
 Special kudos to Helene Maria, the photographer who litteraly heat her camera equipment up these days, and Luca Formicola for the huge quality work he made with the sound & video rushes! 
 
-##### Facts & figures:
+#### Facts & figures:
 360° video project [(watch on Youtube)](https://youtu.be/YTJgq5mtAnU):
 - 2 days straight of shooting, 22 scenes grabbed in only 30 footage cuts
 - 27 raw audio scenes grabbed independently
@@ -74,10 +74,8 @@ Google Streetview & POI shooting [(see in Streetview)](https://goo.gl/maps/cqvhR
 |:--:| 
 | *We really had to give the best of ourselves in every conditions :-)* |
 
-##### Words from the customer:
+#### Words from the customer:
 
 [Philippe Magne, Director of Operations, Vichy Spa International](https://www.linkedin.com/in/philippe-magne-32159a20/):
 > I used Romain's talent to produce a 360 video of our Hotel in Vichy! His work was efficient, wisely planned and he was a dedicated partner. I would not hesitate to trust his working process in future projects.
-
-
 
