@@ -23,8 +23,8 @@ In this website you may find:
 ## CV & projects showcase
 Obviously, since I'm actively searching right now.  
 Speaking of which, here are some documents you may want to check (Gdrive PDF links):
-* [Digital & IT Project Coordinator](https://drive.google.com/open?id=1K3Eod-2f-WGaRSrlZVFVaAX_xSAv5b2I) detailed CV. This a generic version and personal details have been deleted, so feel free to [connect and contact me on LinkedIn](https://www.linkedin.com/in/marchandromain/) if you're looking for a specific version or a portfolio  
-* [Written recommendations](https://drive.google.com/open?id=1WFMRN0ML64Edqv_lDy7kgSfd85cdYOJZ) from former coworkers or managers    
+* [Digital-web-IT Project Coordinator](https://cloud.disroot.org/s/SHeXcnS9dci5YCP) detailed CV. This a generic version and personal details have been deleted, so feel free to [connect and contact me on LinkedIn](https://www.linkedin.com/in/marchandromain/) if you're looking for a specific version or a portfolio  
+* [Written recommendations](https://cloud.disroot.org/s/C6rfsnQcym8qYzE) from former coworkers or managers    
 * This website's [projects page](https://r-m-c-d.github.io/projects/).  
 
 Great! Now I guess you just have to [hire me](https://www.linkedin.com/in/marchandromain/) then!
