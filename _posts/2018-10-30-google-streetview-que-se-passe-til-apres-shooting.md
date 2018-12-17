@@ -3,18 +3,16 @@ layout: post
 title:  "Publication Google Street View Trusted: que se passe-t'il après le shooting?"
 date:   2018-10-31
 excerpt: "Les dessous de la création d'une visite virtuelle d'entreprise sur Google"
-feature: https://cdn-images-1.medium.com/max/680/1*GLe27zgcn7Su4WDpzpyJJQ.jpeg
-tag: 
-- french 
-- digital marketing 
-- SEO 
+feature: https://cdn-images-1.medium.com/max/1700/1*48LfbJRcKxik0_y7rotwjg.png
+tag:
+- french
+- digital marketing
+- SEO
 - google
 - 360
 ---
 
-
-# **Publication Google Street View Trusted: que se passe-t’il après le shooting?**
-##### *Certains clients me demandent souvent en quoi consistent les dessous de la création d’une visite virtuelle d’un établissement*.
+#### *Certains clients me demandent souvent comment se fabrique leur visite virtuelle, je vous emmène en coulisses…*.
 <center><figure>
 	<a href="https://cdn-images-1.medium.com/max/1600/1*a8hr3MRxAoxqAiE1QdE4sg.png"><img src="https://cdn-images-1.medium.com/max/1600/1*a8hr3MRxAoxqAiE1QdE4sg.png"></a>
 	<figcaption><a href="https://cdn-images-1.medium.com/max/1600/1*a8hr3MRxAoxqAiE1QdE4sg.png" title="Panoramique intérieur voiture"></a></figcaption>

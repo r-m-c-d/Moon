@@ -3,12 +3,11 @@ layout: post
 title: 'Projects Portfolio: Swissvax Car Care Centers'
 date: 2018-02-10
 excerpt: "Digital pack with 360° interactive strategy to grow user engagement"
-feature: http://oi63.tinypic.com/dis.jpg
+feature: https://raw.githubusercontent.com/r-m-c-d/r-m-c-d.github.io/master/_posts/swissvax-hq-home-virtual-tour.png
 project: true
 tags: [english, digital, 360, VR, google, SEO, portfolio]
 ---
 
-# Projects portfolio: Swissvax Car Care Centers
 **Role**: Project manager, tech lead
 **Project**: digital marketing & interactive content, 360° imaging, Analytics & Social Medias
 **Period**: 09.2017 – 02.2018
@@ -20,8 +19,8 @@ _This project was realised under the banner of my partner [3Pack Consulting](htt
 
 The concept of most projects we do at 3Pack Consulting consists in increasing local ranking of companies by providing sort of a "digital pack" with focus on Google My Business listing, SEO oriented local website (= in addition to HQ/corporate website when there is one) and an embedded interactive virtual tour, which has proven many times impressive user average time spent on pages we manage. As the 3Pack anme implies, the goal is to rank our customers in the so-called Google 3-pack, the 3 first results Google highlights after a search.
 In the case of Swissvax centers, we also voluntarily shoot inside beautiful car to better immerse the user into the tour and in that case, realise the inside leather care Swissvax provides.   
-Look, see yourself inside this stunning Porsche at [Zuerichsee center](http://tourmake.it/de/tour/e0cb705fe9262186e4b5833013fd0533): 
-![swissvax-zuerichsee-interactive-tour-inside-car](http://oi63.tinypic.com/3149gzn.jpg)
+Look, see yourself inside this stunning Porsche at [Zuerichsee center](http://tourmake.it/de/tour/e0cb705fe9262186e4b5833013fd0533):
+![swissvax-zuerichsee-interactive-tour-inside-car](https://raw.githubusercontent.com/r-m-c-d/r-m-c-d.github.io/master/_posts/swissvax-zuerichsee-interactive-tour-inside-car.png)
 
 #### Approach & main achievements:
 
@@ -29,7 +28,7 @@ Look, see yourself inside this stunning Porsche at [Zuerichsee center](http://to
 - Hands-on: creation and setup of many elements (Youtube, Analytics, Facebook) and of all 360° platform; creation and development of websites, hosting and domains when necessary; embedding frames into websites; creation and securing of relevant Google Maps API keys; etc
 - Managed time, quality and transparent communication
 
-![swissvax-center-glarus-porsche-delta-martini](http://oi63.tinypic.com/2r5gby9.jpg) 
+![swissvax-center-glarus-porsche-delta-martini](https://raw.githubusercontent.com/r-m-c-d/r-m-c-d.github.io/master/_posts/swissvax-center-glarus-porsche-delta-martini.png)
 *View of Swissvax Certified Car Care Center in Glarus - [see website](http://www.swissvax-certified-car-care-center-glarus.ch)*
 
 #### Technical environment and methodologies:
@@ -41,16 +40,16 @@ Look, see yourself inside this stunning Porsche at [Zuerichsee center](http://to
 
 #### A quick look at some deliverables:
 
-| ![swissvax-hq-inside-car-care](http://oi66.tinypic.com/2eqgjlx.jpg) | 
-|:--:| 
+| ![swissvax-hq-inside-car-care](https://raw.githubusercontent.com/r-m-c-d/r-m-c-d.github.io/master/_posts/swissvax-hq-inside-car-care.png) |
+|:--:|
 | *[Swissvax Headquarter, Fällanden:](https://www.swissvax.ch/flagship-car-care-center/index.php)* |
 
 - Finishing and publication of interactive virtual tour,
 - GMB review pack
 
 
-| ![swissvax-glarus-website-interactive-tour](http://oi63.tinypic.com/121y1co.jpg) | 
-|:--:| 
+| ![swissvax-glarus-website-interactive-tour](https://raw.githubusercontent.com/r-m-c-d/r-m-c-d.github.io/master/_posts/swissvax-glarus-website-interactive-tour.png) |
+|:--:|
 | *[Swissvax center Glarus](http://www.swissvax-certified-car-care-center-glarus.ch/)* |
 
 - full website (CMS: Wordpress), DB & hosting management
@@ -60,8 +59,8 @@ Look, see yourself inside this stunning Porsche at [Zuerichsee center](http://to
 - Google Streetview publish
 - full interactive virtual tour
 
-| ![swissvax-limmattal-website-interactive-tour](http://oi64.tinypic.com/9kmsew.jpg) | 
-|:--:| 
+| ![swissvax-limmattal-website-interactive-tour](https://raw.githubusercontent.com/r-m-c-d/r-m-c-d.github.io/master/_posts/swissvax-limmattal-website-interactive-tour.png) |
+|:--:|
 | *[Swissvax center Limmattal](http://swissvax-certified-car-care-center-limmattal.ch/)* |
 
 - full website (CMS: Wordpress), DB & hosting management
@@ -71,8 +70,8 @@ Look, see yourself inside this stunning Porsche at [Zuerichsee center](http://to
 - Google Streetview publish
 - full interactive virtual tour
 
-| ![swissvax-basel-website-interactive-tour](http://oi68.tinypic.com/fwqhkg.jpg) | 
-|:--:| 
+| ![swissvax-basel-website-interactive-tour](https://raw.githubusercontent.com/r-m-c-d/r-m-c-d.github.io/master/_posts/swissvax-basel-website-interactive-tour.png) |
+|:--:|
 | *[Swissvax Basel](http://www.swissvax-basel.ch/)* |
 
 - existing website edits & virtual tour embed (CMS: Wordpress)
@@ -80,14 +79,11 @@ Look, see yourself inside this stunning Porsche at [Zuerichsee center](http://to
 - Facebook page creation & branding
 - full interactive virtual tour
 
-| ![swissvax-zuerichsee-interactive-tour.png](http://oi68.tinypic.com/2vs419z.jpg) | 
-|:--:| 
+| ![swissvax-zuerichsee-interactive-tour.png](https://raw.githubusercontent.com/r-m-c-d/r-m-c-d.github.io/master/_posts/swissvax-zuerichsee-interactive-tour.png) |
+|:--:|
 | *[Swissvax Ufenau-Zürichsee](https://www.swissvax-ufenau.ch/)* |
 
 - existing website edits & virtual tour embed (CMS: Jimdo)
 - Google Analytics setup & review pack
 - Youtube channel creation & branding, video upload
 - full interactive virtual tour
-
-
-
