@@ -2,7 +2,7 @@
 layout: post
 title: "Digressions, hygiène numérique et devoirs de vacances"
 date: 2019-01-10
-excerpt: "Bonnes pratiques d’hygiène numérique pour limiter vos données, leur propagation, en améliorer leur sécurité, leur organisation, leur accès."
+excerpt: "Bonnes pratiques d’hygiène numérique pour limiter vos données, leur propagation, en améliorer leur sécurité, leur organisation, leur accès"
 project: false
 feature: https://cdn-images-1.medium.com/max/2048/1*kmWnjbl7tDCdC1gwA2zUWg.jpeg
 tag:
