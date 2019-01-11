@@ -15,7 +15,7 @@ I dedicate my spare time following latest ICT & tech trends, trying some geeky s
 In this website, I centralise some personal & professional content, in english _ou en français._
 
 ## Articles about
-* Digital transformation & solutions, online strategy, etc. No surprise, that's kind of my current job so.. ¯\_(ツ)_/¯
+* Digital transformation & solutions, online strategy, etc. No surprise, that's kind of my job so..
 * ICT, development, cryptocurrencies, security or technology in general
 * Outdoor and mountaineering sports I practice
 * Well, litterally anything else I'd like to write, it's my page after all. Get your own.
