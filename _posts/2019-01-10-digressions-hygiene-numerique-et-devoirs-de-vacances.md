@@ -9,6 +9,7 @@ tag:
 - french
 - digital
 - privacy
+- digital health
 ---
 
 # Digressions, hygiène numérique et devoirs de vacances
@@ -21,4 +22,4 @@ _Homo-numericus_ vivant avec son temps, j’ai comme beaucoup une fâcheuse tend
 
 Je reviens ci-après sur les bonnes pratiques auxquelles je m'astreins au cours de l'année, ainsi qu'aux actions plus conséquentes entreprises durant les périodes de vacances.
 
-[*Lire la suite sur Medium...*](https://medium.com/@Romain_Marchand/hygiène-numérique-protection-données-data-cleaning-réduction-sources-d8b4984ba755)
+[_Lire la suite sur Medium_](https://medium.com/@Romain_Marchand/hygiène-numérique-protection-données-data-cleaning-réduction-sources-d8b4984ba755)
