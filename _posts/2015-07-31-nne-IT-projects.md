@@ -3,9 +3,9 @@ layout: post
 title: 'Projects Portfolio: IT Projects at NNE Pharmaplan'
 date: 2015-07-31
 excerpt: "a detailed description of my assignments as IT Super user in this company"
-feaure: https://cloud.disroot.org/apps/gallery/s/X3LXzQKCGC6CErF
+feature: https://cloud.disroot.org/apps/gallery/s/X3LXzQKCGC6CErF
 project: true
-tags: [english, IT, infrastructure, helpdesk, portfolio]
+tags: [english, ICT, infrastructure, helpdesk, portfolio]
 ---
 
 # Projects portfolio: IT Projects at NNE Pharmaplan

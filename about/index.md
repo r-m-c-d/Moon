@@ -25,7 +25,7 @@ In this website, I centralise some personal & professional content, in english _
 Obviously, since I'm actively searching right now...  
 If you're a recruiter, here are some documents you may want to check (PDF links):
 * [Digital-web-IT Project Coordinator](https://cloud.disroot.org/s/SHeXcnS9dci5YCP) detailed CV. This a generic version and personal details have been deleted, so feel free to [connect and contact me on LinkedIn](https://www.linkedin.com/in/marchandromain/) if you're looking for a job-specific version  
-* [Written recommendations](https://cloud.disroot.org/s/C6rfsnQcym8qYzE) from former coworkers, managers or customers
+* [Written recommendations](https://drive.google.com/open?id=1qHrF3kUfoyOx_F3_vfVivRRBWyA23vRf) from former coworkers, managers or customers, with a short presentation about myself; private links/contact info have also been deleted
 * My [projects & portfolio page](https://r-m-c-d.github.io/projects/).  
 
 Great! Now I guess you just have to [hire me](https://www.linkedin.com/in/marchandromain/) then!
@@ -33,7 +33,7 @@ Great! Now I guess you just have to [hire me](https://www.linkedin.com/in/marcha
 ## Disclaimer
 
 _Here I'm supposed to warn you that everything in this site belongs to me except what doesn't and you're supposed to know what you can (re)use or not; that what I write only represents my point of view and all sorts of everyone-should-read-but-never-does stuff._ You know.     
-This theme was forked from Taylan Tali's [Moon repository](https://github.com/TaylanTatli/Moon) (kudos for this smooth, fancy theme), and uses the terms of the [MIT license](https://github.com/r-m-c-d/r-m-c-d.github.io/blob/master/LICENSE).  
+This theme was forked from Taylan Tali's [Moon repository](https://github.com/TaylanTatli/Moon) (kudos for this smooth, fancy theme), and uses the terms of the [MIT license](https://github.com/r-m-c-d/r-m-c-d.github.io/blob/master/LICENSE). Articles are under the [CC BY-NC-SA 4.0 license](https://creativecommons.org/licenses/by-nc-sa/4.0/) but I'm always open to discussion.
 
 
 ## Contact?
