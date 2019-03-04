@@ -16,9 +16,9 @@ tag:
 
 Tout récemment, je partageais le mail que j’ai reçu de Google sur mon compte Local Guide, avec lequel j’administre les comptes GMB (Google My Business) de nombreuses entreprises clientes et sur lequel je publie les photos et visites virtuelles Streetview pour leur compte, qui m’indiquait que je venais de dépasser les 5 millions de vues de mes images sur les services Google.
 
-Je postais donc sur divers réseaux sociaux que je remerciais bien évidemment mes clients, puisque parmi toutes les images que j’ai publiées la grande majorité le sont pour eux et leur entreprise, tout en rappelant qu’il s’agit là pour eux de « 5 millions de chances en plus d’être mieux vus en ligne que leurs concurrents ».
+Je postais donc sur divers réseaux sociaux que je remerciais bien évidemment mes clients, puisque parmi toutes les images que j’ai publiées la grande majorité le sont pour eux et leur entreprise, tout en rappelant qu’il s’agit là pour eux de « 5 millions de chances en plus d’être mieux vus en ligne que leurs concurrents ».  
 
-![](https://cdn-images-1.medium.com/max/640/1*4nq1e0JrQeoiH_IRTKfpMw.png)
+  ![5 millions thanks](https://cdn-images-1.medium.com/max/640/1*4nq1e0JrQeoiH_IRTKfpMw.png)
 
 Car même si je tire une certaine fierté de ce joli chiffre, je sais qu’il n’y a vraiment pas de quoi se vanter. Certes c’est un grand nombre, de prime abord, mais ce n’est qu’une goutte d’eau dans un océan de recherches sur Internet. Ce dont je suis le plus heureux surtout, c’est que ce chiffre représente concrètement de la **visibilité** et donc des **ventes pour mes clients**, qui sont pour la plupart des petites et moyennes entreprises.
 
