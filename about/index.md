@@ -22,11 +22,11 @@ In this website, I centralise some personal & professional content, in english _
 
 ## CV & projects showcase
 Obviously, since I'm actively searching right now...  
-If you're a recruiter, you may want to have a look at my [projects & portfolio page](https://r-m-c-d.github.io/projects/) or to check this [short profile description and some written recommendations](https://drive.google.com/file/d/1z8Z3zJoBJZqYr4-Xci980FjBp09wYRPX/view?usp=sharing) and this [Digital-web-IT Project Coordinator](https://drive.google.com/open?id=1K3Eod-2f-WGaRSrlZVFVaAX_xSAv5b2I) detailed CV (PDF links).
+If you're a recruiter, you may want to have a look at my [projects & portfolio page](https://r-m-c-d.github.io/projects/), or to check this [profile description with written recommendations](https://drive.google.com/file/d/1z8Z3zJoBJZqYr4-Xci980FjBp09wYRPX/view?usp=sharing) and this [Digital-web-IT Project Coordinator](https://drive.google.com/open?id=1K3Eod-2f-WGaRSrlZVFVaAX_xSAv5b2I) CV (PDF links).
 
 ## Disclaimer
 _Here I'm supposed to warn you that everything in this site belongs to me except what doesn't and you're supposed to know what you can (re)use or not; that what I write only represents my point of view and all sorts of everyone-should-read-but-never-does stuff._ You know.     
-This theme was forked from Taylan Tali's [Moon repository](https://github.com/TaylanTatli/Moon) (kudos for this smooth, fancy theme), and uses the terms of the [MIT license](https://github.com/r-m-c-d/r-m-c-d.github.io/blob/master/LICENSE). Articles are under the [CC BY-NC-SA 4.0 license](https://creativecommons.org/licenses/by-nc-sa/4.0/) but I'm always open to discussion.
+This theme was forked from [Moon repository](https://github.com/TaylanTatli/Moon) and uses the terms of the [MIT license](https://github.com/r-m-c-d/r-m-c-d.github.io/blob/master/LICENSE). Articles are under the [CC BY-NC-SA 4.0 license](https://creativecommons.org/licenses/by-nc-sa/4.0/) but I'm always open to discussion.
 
 ## Contact?
-Sure! Hit me a DM on [Twitter](https://twitter.com/Roman0oO) or [connect on LinkedIn](https://www.linkedin.com/in/marchandromain/)
+Sure! Hit me a DM on [Twitter](https://twitter.com/Roman0oO) or [connect on LinkedIn](https://www.linkedin.com/in/marchandromain/).
