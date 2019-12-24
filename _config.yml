@@ -11,7 +11,7 @@ locale:             en_US
 url:                https://r-m-c-d.github.io/
 rss:                true
 author:
-  medium: '@Romain_Marchand'
+  medium: '@r_mcd'
 
 # Jekyll
 permalink:          /:title/
@@ -38,12 +38,12 @@ sass:
   #verify:
   #ad-client:
   #ad-slot:
-twitter:            Roman0oO
+twitter:            rmcd0
 #facebook:           username
 #github-url:         r-m-c-d
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 linkedin:           marchandromain
-medium:            '@Romain_Marchand'
+medium:            '@r_mcd'
 #email:              
 #youtube:           username
 #youtube-channel:   channel
