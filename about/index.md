@@ -22,7 +22,7 @@ In this website are centralised some personal & professional content, in english
 
 ## CV & projects showcase
 Obviously, since I'm ~~actively searching right now~~ not looking for job opportunities :-)  
-You may want to have a look at my [projects & portfolio page](https://r-m-c-d.github.io/projects/).
+Still, you may want to have a look at my [projects & portfolio page](https://r-m-c-d.github.io/projects/).
 
 ## Disclaimer
 _Here I'm supposed to warn you that everything in this site belongs to me except what doesn't and you're supposed to know what you can (re)use or not. Also what I write only represents my point of view and all sorts of everyone-should-read-but-never-does stuff._ You know.     
