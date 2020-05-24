@@ -21,14 +21,13 @@ CVDA est une association reconnue et enregistrée qui rassemble les enfants et p
 
 Jean et Camilla sont aussi les jeunes parents de deux autres enfants, Jude et Alba, et tiennent depuis plusieurs années un blog très fréquenté contant leurs visites et découvertes en famille à travers la Suisse, que je vous invite à découvrir: [thefamilyof5.com](https://www.thefamilyof5.com/). Ils déploient une formidable énergie pour montrer qu'un handicap ne devrait pas empêcher une famille de vivre de chouettes aventures ensemble!
 
-Pour en venir à la course des 30 & 31 mai prochains, **mon initiative est donc très simple:** 
-##courir la One Million Run, et encourager un maximum de personnes parmi vous à faire un don à l’association CVDA, sur la base de 1CHF/kilomètre que j’aurais parcouru!##
+Pour en venir à la course des 30 & 31 mai prochains, **mon initiative est donc très simple: courir la One Million Run, et encourager un maximum de personnes parmi vous à faire un don à l’association CVDA, sur la base de 1CHF/kilomètre que j’aurais parcouru!**
 
 Le bouche-à-oreilles ayant fait son chemin ces derniers jours, j’ai eu la bonne surprise de voir que **l’initiative plaît beaucoup** et que je pourrais compter, outre ma compagne, sur quelques amis, collègues et copains du sport pour tenir parole, et **ça fait vraiment chaud au coeur!** D’où cet article simplement pour faciliter ma communication et la diffusion de ce sujet dans mon entourage.
 
 Enfin, à tous les résidents en Suisse, je vous invite à vous inscrire à la course et à ainsi contribuer à tous ensemble exploser ce million de kilomètres!
 
-Evidemment, rappelons que je ne pourrais courir tout au plus que quelques dizaines de kilomètres, et qu’enfin chacun reste libre de faire, ou pas, un don du montant qu’il souhaite. 
+Evidemment, rappelons que je ne pourrais courir tout au plus que quelques dizaines de kilomètres, et qu’enfin **chacun reste bien sûr libre de faire un don ou pas, et évidemment du montant qu’il souhaite**. 
 
 Prenez soin de vous. 
 
