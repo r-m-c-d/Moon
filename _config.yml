@@ -40,12 +40,12 @@ sass:
   #ad-slot:
 twitter:            rmcd0
 #facebook:           username
-#github-url:         r-m-c-d
+github-url:         https://github.com/r-m-c-d
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
-linkedin:           marchandromain
+#linkedin:           username
 medium:            '@r_mcd'
 #email:              
-#youtube:           username
+#youtube:           https://www.youtube.com/channel/UCsv0AE2pnyu2D2qTj4DPulw?
 #youtube-channel:   channel
 
 
