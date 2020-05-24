@@ -5,13 +5,13 @@ tags: [about, rmcd, articles, cv]
 date: 2018-12-17
 ---
 
-<center>Welcome to this tiny drop of bits in the Internet's ocean \o/ </center>
+<center>Welcome to this tiny drop of bits in the Internet's ocean! </center>
 
-I'm Romain, aka RMCD on most of my netizen profiles.  
+I'm RMCD or romano on most of my netizen profiles.  
 
 Coming from Normandy, France, I am based in Switzerland since 2011 and I work for an IT Hardware manufacturer and Digital Signage solutions developer company.
 
-Besides work, I dedicate my spare time following latest tech trends, striving to maintain my wobbly, unsound level on my guitar, or doing sport. A lot.  I am also active in various local communities and associations.
+Besides work, I dedicate my spare time following latest tech trends, striving to maintain my wobbly, unsound level on my guitar, or most of times doing outdoor sports out there in the moutains.  I am also active in various local communities and associations.
 
 In this website are centralised some personal & professional content, in english _ou en français_, such as:
 
@@ -29,4 +29,4 @@ _Here I'm supposed to warn you that everything in this site belongs to me except
 This theme was forked from [Moon repository](https://github.com/TaylanTatli/Moon) and uses the terms of the [MIT license](https://github.com/r-m-c-d/r-m-c-d.github.io/blob/master/LICENSE). Articles are under the [CC BY-NC-SA 4.0 license](https://creativecommons.org/licenses/by-nc-sa/4.0/) but I'm always open to discussion.
 
 ## Contact?
-Sure! Hit me a DM on [Twitter](https://twitter.com/rmcd0) or [mail this box](mailto:rmcd.biz@gmail.com?subject=[GitHub_source] first contact).
+Sure! Hit me a DM on [Twitter](https://twitter.com/rmcd0) or [mail this box](mailto:rmcd.biz@gmail.com?subject=[Source_GitHub] first contact).
