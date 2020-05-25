@@ -11,9 +11,6 @@ tag:
 - sport
 ---
 
-<center>L'initiative en bref: sponsorisez-moi 1CHF/kilomètre couru pour l'association CVDA!**</center>
-
-
 
 <p align="center">
   <b>L'initiative en bref: sponsorisez-moi 1CHF/kilomètre couru pour l'association CVDA!</b><br>
