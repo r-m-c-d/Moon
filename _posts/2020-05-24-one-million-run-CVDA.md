@@ -38,7 +38,8 @@ Pour en venir à la course des 30 & 31 mai prochains, **mon initiative est donc 
 
 Le bouche-à-oreille ayant fait son chemin ces derniers jours, j’ai eu la bonne surprise de voir que **l’initiative plaît beaucoup** et que je pourrais compter, outre ma compagne, sur quelques amis, collègues et copains du sport pour tenir parole, et **ça fait vraiment chaud au coeur!** D’où cet article simplement pour faciliter ma communication et la diffusion de ce sujet dans mon entourage.
 
-Enfin, à tous les résidents en Suisse, je vous invite à vous inscrire à la course et à ainsi contribuer à tous ensemble exploser ce million de kilomètres! Si vous voulez rejoindre mon équipe virtuelle et comptabiliser ensemble nos kilomètres, sélectionnez l'équipe "OneWorld" lors de votre inscription!
+Enfin, à tous les résidents en Suisse, je vous invite à **vous inscrire à la course et ainsi contribuer à exploser ce million de kilomètres tous ensemble!** 
+Si vous voulez rejoindre mon équipe virtuelle et comptabiliser ensemble nos kilomètres, sélectionnez l'équipe "OneWorld" lors de votre inscription!
 
 Evidemment, rappelons que je ne pourrais courir tout au plus que quelques dizaines de kilomètres, et qu’enfin **chacun reste bien sûr libre de faire un don ou pas, et évidemment du montant qu’il souhaite**. 
 
