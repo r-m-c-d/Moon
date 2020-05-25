@@ -53,14 +53,13 @@ Speaking of which, I thank [NNE Pharmaplan](https://www.nne.com/) for having giv
 
 Being naturally curious, I kind of always wanted to open things to see what's inside, be it with a palpable mechanical toy or within a digital solution. Although more than often, it meant not being able to re-build it, tightening the screw too much, irreversibly breaking the wood, making the system unstable or crashing it. At least I was learning how to reinstall!
 
-Feeling attracted to Open Source philosophy in the early 2000's, I frequently helped buying/mounting/configuring many kinds of PC/hardwares/small networks for people, learning by doing while helping people and [spreading best practises and awareness](https://medium.com/@Romain_Marchand/hygi%C3%A8ne-num%C3%A9rique-protection-donn%C3%A9es-data-cleaning-r%C3%A9duction-sources-d8b4984ba755) towards personal data and privacy matters.
+Feeling attracted to Open Source philosophy in the early 2000's, I frequently helped buying/mounting/configuring many kinds of PC/hardwares/small networks for people, learning by doing while helping people and [spreading best practises and awareness](https://medium.com/@Romain_Marchand/hygi%C3%A8ne-num%C3%A9rique-protection-donn%C3%A9es-data-cleaning-r%C3%A9duction-sources-d8b4984ba755) towards personal data and privacy matters. And it's still the case nowadays.
 
-Spoiler: trying to be an evangelist doesn't work much! Most people simply want a _"it-just-works"_ machine and Windows has a proeminent position on both domestic & professional markets. However, with a diplomatic approach I succeeded in converting quite some people, including my own parents (and THAT is quite a challenge!), very happy on their Ubuntu for several years and very rarely asking me to take control remotely to fix anything. I think they mostly don't see any difference and at least I got rid of _"computer is being slower and slower everyday, can you help?"_ that I heard all along their Windows years. 
+Spoiler: trying to be an evangelist doesn't work much! Most people simply want a _"it-just-works"_ machine and Windows has a proeminent position on both domestic & professional markets. However, with a diplomatic approach I succeeded in converting quite some people over the years, including my own parents (and THAT is quite a challenge!), very happy on their Ubuntu for several years and very rarely asking me to take control remotely to fix anything. I think they mostly don't see any difference and at least I got rid of _"computer is being slower and slower everyday, can you help?"_ that I heard all along their Windows years. 
 
-I mostly know about Debian-based distributions, have very few experience with other distros and am overall just a Linux padawan, still learning.
+I mostly know about Debian-based distributions, have very few experience with other distros and am overall just a Linux padawan, continuously learning.
 
-In the recent years, I also advised or worked on digital, ERP-CRM, imaging, SEO or general web and IT pro bono projects. This includes setting up domains, managing / sorting / cleaning data, testing or simply giving feedback on beta versions on friends projects, creating online presence and basic SEO tools and publishing content for SMEs or people in my network.
-
+In the recent years, I also advised or worked on digital, ERP-CRM, imaging, SEO or general web and IT pro bono projects. This includes setting up domains, managing / sorting / cleaning data, testing or giving feedback on beta versions on friends projects, creating online presence and basic SEO tools and publishing content for SMEs or people in my network.
 
 ## Other occasional engagements or notable projects:
 
