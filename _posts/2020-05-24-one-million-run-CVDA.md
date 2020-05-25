@@ -16,7 +16,7 @@ tag:
  </p>
  
  <p align="center">
-  <b>[FAIRE UN DON](https://www.cvdassociation.com/donate)</b><br>
+  <b> [FAIRE UN DON](https://www.cvdassociation.com/donate) </b><br>
  </p>
  
 <p align="center">
