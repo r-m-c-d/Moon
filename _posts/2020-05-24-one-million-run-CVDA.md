@@ -28,7 +28,7 @@ J’avais de mon côté une course caritative en juin pour laquelle je préparai
 
 CVDA est une association reconnue et enregistrée qui rassemble les enfants et parents d’enfants touchés par ces troubles vestibulaires, soutient la recherche médicale dans ce domaine et propose des conseils aux familles touchées par des problèmes de la sorte.
 
-Jean et Camilla sont aussi les jeunes parents de deux autres enfants, Jude et Alba, et tiennent depuis plusieurs années un blog très fréquenté contant leurs visites et découvertes en famille à travers la Suisse, que je vous invite à découvrir: [thefamilyof5.com](https://www.thefamilyof5.com/). Ils déploient une formidable énergie pour montrer qu'un handicap ne devrait pas empêcher une famille de vivre de chouettes aventures ensemble!
+Jean et Camilla sont aussi les jeunes parents de deux autres enfants, Jude et Alba, et tiennent depuis plusieurs années un blog très fréquenté contant leurs visites et découvertes en famille à travers la Suisse, que je vous invite à découvrir: [thefamilyof5.com](https://www.thefamilyof5.com/). Ils déploient une formidable énergie pour montrer qu'un handicap ne devrait pas empêcher une famille de vivre de chouettes aventures ensemble! Vous trouverez [leur propre présentation sur ce post](https://www.facebook.com/thefamilyof5.swiss/posts/853461175059455:0).
 
 <p align="center">
 - - - - -
