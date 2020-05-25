@@ -15,7 +15,7 @@ tag:
 ---
 
 **2020**:
--on May 30th & 31st during the [One Million Run](www.onemillionrun.ch) race, I will be running for little Elio and CVDA association and collect 1CHF by kilometer from several people! More infos [here on my website](https://r-m-c-d.github.io//one-million-run-CVDA/).
+- on May 30th & 31st during the [One Million Run](www.onemillionrun.ch) race, I will be running for little Elio and CVDA association and collect 1CHF by kilometer from several people! More infos [here on my website](https://r-m-c-d.github.io//one-million-run-CVDA/).
 
 **2019-ongoing**:
 - member of the editorial committee of local newspaper VichFAIT. Often writing articles but more specifically in charge of articles compilation, minor corrections and proofreading, layout edition and final submission for print out.
