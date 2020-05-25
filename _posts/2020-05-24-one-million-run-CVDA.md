@@ -36,7 +36,7 @@ Jean et Camilla sont aussi les jeunes parents de deux autres enfants, Jude et Al
 
 Pour en venir à la course des 30 & 31 mai prochains, **mon initiative est donc très simple: courir la One Million Run, et encourager un maximum de personnes parmi vous à faire un don à l’association CVDA, sur la base de 1CHF/kilomètre que j’aurais parcouru!**
 
-Le bouche-à-oreilles ayant fait son chemin ces derniers jours, j’ai eu la bonne surprise de voir que **l’initiative plaît beaucoup** et que je pourrais compter, outre ma compagne, sur quelques amis, collègues et copains du sport pour tenir parole, et **ça fait vraiment chaud au coeur!** D’où cet article simplement pour faciliter ma communication et la diffusion de ce sujet dans mon entourage.
+Le bouche-à-oreille ayant fait son chemin ces derniers jours, j’ai eu la bonne surprise de voir que **l’initiative plaît beaucoup** et que je pourrais compter, outre ma compagne, sur quelques amis, collègues et copains du sport pour tenir parole, et **ça fait vraiment chaud au coeur!** D’où cet article simplement pour faciliter ma communication et la diffusion de ce sujet dans mon entourage.
 
 Enfin, à tous les résidents en Suisse, je vous invite à vous inscrire à la course et à ainsi contribuer à tous ensemble exploser ce million de kilomètres! Si vous voulez rejoindre mon équipe virtuelle et comptabiliser ensemble nos kilomètres, sélectionnez l'équipe "OneWorld" lors de votre inscription!
 
