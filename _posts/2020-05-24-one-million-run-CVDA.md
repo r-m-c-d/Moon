@@ -13,6 +13,14 @@ tag:
 
 <center>L'initiative en bref: sponsorisez-moi 1CHF/kilomètre couru pour l'association CVDA!**</center>
 
+
+
+<p align="center">
+  <b>L'initiative en bref: sponsorisez-moi 1CHF/kilomètre couru pour l'association CVDA!</b><br>
+ </p>
+
+
+
 Le weekend du 30 et 31 mai aura lieu la [One Million Run](https://www.onemillionrun.ch/), un événement sportif à travers toute la suisse visant à collectivement dépasser le million de kilomètres parcourus en marche / course à pied en un weekend! 
 
 **L’inscription est gratuite, chacun est libre de participer et de faire le parcours de son choix**: son footing habituel dans son quartier, ou une performance un peu plus poussée, tout compte! L’enjeu est plus symbolique qu’autre chose, il marque la reprise peu à peu d’une vie normale post-confinement, tout en respectant évidemment les règles de l’OFSP (max groupe de 5).
