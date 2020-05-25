@@ -12,13 +12,6 @@ tag:
 ---
 
 <p align="center">
-
-- - - - -
-
- </p>
-
-
-<p align="center">
   <b>L'initiative en bref: sponsorisez-moi 1CHF/kilomètre couru pour l'association CVDA!</b><br>
  </p>
 
@@ -36,6 +29,10 @@ J’avais de mon côté une course caritative en juin pour laquelle je préparai
 CVDA est une association reconnue et enregistrée qui rassemble les enfants et parents d’enfants touchés par ces troubles vestibulaires, soutient la recherche médicale dans ce domaine et propose des conseils aux familles touchées par des problèmes de la sorte.
 
 Jean et Camilla sont aussi les jeunes parents de deux autres enfants, Jude et Alba, et tiennent depuis plusieurs années un blog très fréquenté contant leurs visites et découvertes en famille à travers la Suisse, que je vous invite à découvrir: [thefamilyof5.com](https://www.thefamilyof5.com/). Ils déploient une formidable énergie pour montrer qu'un handicap ne devrait pas empêcher une famille de vivre de chouettes aventures ensemble!
+
+<p align="center">
+- - - - -
+ </p>
 
 Pour en venir à la course des 30 & 31 mai prochains, **mon initiative est donc très simple: courir la One Million Run, et encourager un maximum de personnes parmi vous à faire un don à l’association CVDA, sur la base de 1CHF/kilomètre que j’aurais parcouru!**
 
