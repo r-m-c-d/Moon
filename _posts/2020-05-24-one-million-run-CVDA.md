@@ -11,7 +11,7 @@ tag:
 - sport
 ---
 
-Le weekend du 30 et 31 mai aura lieu la [One Million Run](www.onemillionrun.ch), un événement sportif à travers toute la suisse visant à collectivement dépasser le million de kilomètres parcourus en marche / course à pied en un weekend! 
+Le weekend du 30 et 31 mai aura lieu la [One Million Run](https://www.onemillionrun.ch/), un événement sportif à travers toute la suisse visant à collectivement dépasser le million de kilomètres parcourus en marche / course à pied en un weekend! 
 
 **L’inscription est gratuite, chacun est libre de participer et de faire le parcours de son choix**: son footing habituel dans son quartier, ou une performance un peu plus poussée, tout compte! L’enjeu est plus symbolique qu’autre chose, il marque la reprise peu à peu d’une vie normale post-confinement, tout en respectant évidemment les règles de l’OFSP (max groupe de 5).
 
@@ -25,7 +25,7 @@ Pour en venir à la course des 30 & 31 mai prochains, **mon initiative est donc 
 
 Le bouche-à-oreilles ayant fait son chemin ces derniers jours, j’ai eu la bonne surprise de voir que **l’initiative plaît beaucoup** et que je pourrais compter, outre ma compagne, sur quelques amis, collègues et copains du sport pour tenir parole, et **ça fait vraiment chaud au coeur!** D’où cet article simplement pour faciliter ma communication et la diffusion de ce sujet dans mon entourage.
 
-Enfin, à tous les résidents en Suisse, je vous invite à vous inscrire à la course et à ainsi contribuer à tous ensemble exploser ce million de kilomètres!
+Enfin, à tous les résidents en Suisse, je vous invite à vous inscrire à la course et à ainsi contribuer à tous ensemble exploser ce million de kilomètres! Si vous voulez rejoindre mon équipe virtuelle et comptabiliser ensemble nos kilomètres, sélectionnez l'équipe "OneWorld" lors de votre inscription!
 
 Evidemment, rappelons que je ne pourrais courir tout au plus que quelques dizaines de kilomètres, et qu’enfin **chacun reste bien sûr libre de faire un don ou pas, et évidemment du montant qu’il souhaite**. 
 
