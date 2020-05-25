@@ -32,5 +32,5 @@ Evidemment, rappelons que je ne pourrais courir tout au plus que quelques dizain
 Prenez soin de vous. 
 
 **Liens:**
-- la course: [www.onemillionrun.ch](www.onemillionrun.ch)
-- CVDA: [www.cvdassociation.com/donate](www.cvdassociation.com/donate)
+- la course: [onemillionrun.ch](https://www.onemillionrun.ch/)
+- CVDA: [cvdassociation.com/donate](https://www.cvdassociation.com/donate)
