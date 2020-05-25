@@ -4,7 +4,7 @@ title: "One Million Run et initiative 1CHF/kilomètre pour l’association CVDA"
 date: 2020-05-24
 excerpt: "courir pour récolter des fonds pour une association"
 project: true
-feature: https://raw.githubusercontent.com/r-m-c-d/rmcd-sandbox/master/img-repo/one-million-run-CVDA-initiative.png
+feature: https://raw.githubusercontent.com/r-m-c-d/rmcd-sandbox/master/img-repo/one-million-run-CVDA-initiative_banner-format.png
 tag:
 - french
 - volunteer
