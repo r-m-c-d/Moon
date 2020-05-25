@@ -14,17 +14,11 @@ tag:
 - digital
 ---
 
-#### 1999-ongoing:
-#### Windows, Linux, digital & privacy awareness and overall ICT support
+**2020**:
+-on May 30th & 31st during the [One Million Run](www.onemillionrun.ch) race, I will be running for little Elio and CVDA association and collect 1CHF by kilometer from several people! More infos [here on my website](https://r-m-c-d.github.io//one-million-run-CVDA/).
 
-Being naturally curious, I kind of always wanted to open things to see what's inside, be it with a palpable mechanical toy or within a digital solution. Although more than often, it meant not being able to re-build it, tightening the screw too much, irreversibly breaking the wood, making the system unstable or crashing it. At least I was learning how to reinstall!
- 
-Feeling attracted to Open Source philosophy in the early 2000's, I frequently helped buying/mounting/configuring many kinds of PC/hardwares/small networks for people, learning by doing while helping people and [spreading best practises and awareness](https://medium.com/@Romain_Marchand/hygi%C3%A8ne-num%C3%A9rique-protection-donn%C3%A9es-data-cleaning-r%C3%A9duction-sources-d8b4984ba755) towards personal data and privacy matters.
-
-Spoiler: trying to be an evangelist doesn't work much! Most people simply want a _"it-just-works"_ machine and Windows has a proeminent position on both domestic & professional markets. However, with a diplomatic approach I succeeded in converting quite some people, including my own parents (and THAT is quite a challenge!), very happy on their Ubuntu for several years and very rarely asking me to take control remotely to fix anything. I think they mostly don't see any difference and at least I got rid of _"computer is being slower and slower everyday, can you help?"_ that I heard all along their Windows years. 
-I mostly know about Debian-based distributions, have very few experience with other distros and am overall just a Linux padawan, still learning.
-
-In the recent years, I also advised or worked on digital, ERP-CRM, imaging, SEO or general web and IT pro bono projects. This includes setting up domains, managing / sorting / cleaning data, testing or simply giving feedback on beta versions on friends projects, creating online presence and basic SEO tools and publishing content for SMEs or people in my network.
+**2019-ongoing**:
+- member of the editorial committee of local newspaper VichFAIT. Often writing articles but more specifically in charge of articles compilation, minor corrections and proofreading, layout edition and final submission for print out.
 
 **2019: CRM deployment**
 implementation and configuration of AgileCRM for [3Pack Consulting](https://www.3pack.ch/), a partner company I worked a lot with and that has brought me many digital consulting missions these past years. In summary: overall quick consulting and analysis, filtering & cleaning of customer database, setup CRM accounts/profiles, uploading data, testing, basic workflow automation, etc.  
@@ -53,6 +47,19 @@ Then I learned that what most refugees need whey they land in a camp in Europe i
 
 To companies: corporate equipment is obviously really good too! 
 Speaking of which, I thank [NNE Pharmaplan](https://www.nne.com/) for having given me multiple robust Dell laptops that I have later revamped, as well as an old patch bay and network switch, and also more recently, in 2019, [SpinetiX](https://www.spinetix.com) for giving several lots of PC tower + screen also in perfect condition, that this time I donated to Geneva-based cooperative [Itopie.ch](https://www.itopie.ch/) which promotes the use of Open Source solutions and provides solutions, trainings, park maintenance, etc, to people, institutions and private companies as well.
+
+#### 1999-ongoing:
+#### Windows, Linux, digital & privacy awareness and overall ICT support
+
+Being naturally curious, I kind of always wanted to open things to see what's inside, be it with a palpable mechanical toy or within a digital solution. Although more than often, it meant not being able to re-build it, tightening the screw too much, irreversibly breaking the wood, making the system unstable or crashing it. At least I was learning how to reinstall!
+
+Feeling attracted to Open Source philosophy in the early 2000's, I frequently helped buying/mounting/configuring many kinds of PC/hardwares/small networks for people, learning by doing while helping people and [spreading best practises and awareness](https://medium.com/@Romain_Marchand/hygi%C3%A8ne-num%C3%A9rique-protection-donn%C3%A9es-data-cleaning-r%C3%A9duction-sources-d8b4984ba755) towards personal data and privacy matters.
+
+Spoiler: trying to be an evangelist doesn't work much! Most people simply want a _"it-just-works"_ machine and Windows has a proeminent position on both domestic & professional markets. However, with a diplomatic approach I succeeded in converting quite some people, including my own parents (and THAT is quite a challenge!), very happy on their Ubuntu for several years and very rarely asking me to take control remotely to fix anything. I think they mostly don't see any difference and at least I got rid of _"computer is being slower and slower everyday, can you help?"_ that I heard all along their Windows years. 
+
+I mostly know about Debian-based distributions, have very few experience with other distros and am overall just a Linux padawan, still learning.
+
+In the recent years, I also advised or worked on digital, ERP-CRM, imaging, SEO or general web and IT pro bono projects. This includes setting up domains, managing / sorting / cleaning data, testing or simply giving feedback on beta versions on friends projects, creating online presence and basic SEO tools and publishing content for SMEs or people in my network.
 
 
 ## Other engagements:
