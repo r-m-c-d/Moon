@@ -13,9 +13,10 @@ tag:
 
 <p align="center">
   <b>L'initiative en bref: sponsorisez-moi 1CHF/kilomètre couru pour l'association CVDA!</b><br>
- </p>
+  
+ [FAIRE UN DON](https://www.cvdassociation.com/donate)
  
- <p align="center">[FAIRE UN DON](https://www.cvdassociation.com/donate)</p>
+   </p>
  
 <p align="center">
 - - - - -
