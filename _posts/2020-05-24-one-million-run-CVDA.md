@@ -18,6 +18,11 @@ tag:
    [FAIRE UN DON](https://www.cvdassociation.com/donate)
  
 <p align="center">
+Je publierais le kilométrage total parcouru au plus tard le lundi 1er juin
+    </p>
+
+
+<p align="center">
 - - - - -
  </p>
 
