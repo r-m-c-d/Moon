@@ -12,11 +12,13 @@ tag:
 ---
 
 <p align="center">
-  <b>L'initiative en bref: sponsorisez-moi 1CHF/kilomètre couru pour l'association CVDA!
-    Je publierais le kilométrage total parcouru au plus tard le lundi 1er juin.
-     <a href="https://www.cvdassociation.com/donate">FAIRE UN DON</a>
-     </b><br>
-    </p>
+    <b>L'initiative en bref: sponsorisez-moi 1CHF/kilomètre couru pour l'association CVDA!</b></p>
+
+<p align="center">
+    Je publierais le kilométrage total parcouru au plus tard le lundi 1er juin.</p>
+ 
+<p align="center">
+     <a href="https://www.cvdassociation.com/donate">FAIRE UN DON</a></p>
 
 <p align="center">
 - - - - -
