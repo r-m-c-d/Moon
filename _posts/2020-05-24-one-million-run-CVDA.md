@@ -12,7 +12,9 @@ tag:
 ---
 
 <p align="center">
-    <b>UPDATE 1er juin, résultat final: 60km courus en 8h!</b>
+    <b>UPDATE 1er juin, résultat final: 60km courus en 8h!</b>  
+    
+      
     J'invite les donateurs de l'initiative 1CHF/kilomètre à se rendre sur <a href="https://www.cvdassociation.com/donate">la page dons de l'association</a> et à indiquer "One Million Run" en commentaire de leur versement. Encore MERCI à eux!</p>
 
 <p align="center">
