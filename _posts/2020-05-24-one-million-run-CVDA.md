@@ -12,6 +12,13 @@ tag:
 ---
 
 <p align="center">
+    <b>UPDATE 1er juin, résultat final: 60km courus en 8h! J'invite les donateurs de l'initiative 1CHF/kilomètre à se rendre sur [la page donations de l'association](https://www.cvdassociation.com/donate) et à indiquer "One Million Run" en commentaire de leur versement. Encore MERCI à eux! </b></p>
+
+<p align="center">
+- - - - - - - - - -
+ </p>
+
+<p align="center">
     <b>L'initiative en bref: sponsorisez-moi 1CHF/kilomètre couru pour l'association CVDA!</b></p>
 
 <p align="center">
@@ -21,7 +28,7 @@ tag:
      <a href="https://www.cvdassociation.com/donate">FAIRE UN DON</a></p>
 
 <p align="center">
-- - - - -
+- - - - - - - - - -
  </p>
 
 
