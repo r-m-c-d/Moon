@@ -12,7 +12,8 @@ tag:
 ---
 
 # Débarquement annuel
-###_Chaque 6 juin au réveil, ma première pensée va à ces gamins du monde qui à la même heure bien des années plus tôt, tombaient par milliers sur les plages de ma Normandie. Sentiments contrastés._###
+
+#### _Chaque 6 juin au réveil, ma première pensée va à ces gamins du monde qui à la même heure bien des années plus tôt, tombaient par milliers sur les plages de ma Normandie. Sentiments contrastés._ ####
 
 Sans ces anonymes noyés le long des interminables côtes normandes, je ne fêterais probablement pas mon anniversaire chaque 6 juin avec la même légère insouciance. A la fois passionné par l’histoire de cette époque (comment peut-il en être autrement lorsqu’on est né un 6 juin, à Caen, à quelques pas des plages?), mais aussi avide consommateur de l’information et de l’actualité en général, je ne peux m’empêcher d’avoir tous les ans comme un arrière-goût doux-amer en tant que simple observateur du monde.
 
