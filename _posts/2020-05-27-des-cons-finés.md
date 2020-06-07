@@ -13,7 +13,7 @@ tag:
 
 # Des — cons — finés!
 
-### _Un coup de pédale dans la fourmillière. Un billet d’humeur accompagné de quelques dessins de presse dont je suis un éternel consom-amateur._ ###
+#### _Un coup de pédale dans la fourmillière. Un billet d’humeur accompagné de quelques dessins de presse dont je suis un éternel consom-amateur._ ####
 
 La semaine passée déjà quelques bouchons matinaux m’avaient réveillé l’esprit. Mais là ce matin, d'un coup, sur mon vélo avec mon fils, en l’emmenant chez sa nounou, je me suis senti aggressé et j’ai pris conscience. Des semaines à me bercer d’une douce illusion venaient subitement de voler en éclat.
 
