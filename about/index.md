@@ -38,28 +38,22 @@ Still, you may want to have a look at my [projects & portfolio page](https://r-m
 ## What others say
 
 <p align="center">
-    <i>« the glue that helps the team stick together: fast understanding & versatility, trustful, going the extra mile & coping with pressure in demanding project phases »</i></p>
-<p align="center"><b>Senior HVAC & utilities engineer - Pharma & biotech industry</b></p>
+    <i>« the glue that helps the team stick together: fast understanding & versatility, trustful, going the extra mile & coping with pressure in demanding project phases »</i></p><p align="center"><b>Senior HVAC & utilities engineer - Pharma & biotech industry</b></p>
 
 <p align="center">
-    <i>« focused on needs & trustful relationship. Always eager to help his pairs »</i></p>
-<p align="center"><b>SEO expert & web strategist - Digital projects & consulting</b></p>
+    <i>« focused on needs & trustful relationship. Always eager to help his pairs »</i></p><p align="center"><b>SEO expert & web strategist - Digital projects & consulting</b></p>
 
 <p align="center">
-    <i>« proactive & good communicator / masters technologies & current trends to show us inovative approach in our digital transformation »</i></p>
-<p align="center"><b>Swiss industrial customer - Digital consulting</b></p>
+    <i>« proactive & good communicator / masters technologies & current trends to show us inovative approach in our digital transformation »</i></p><p align="center"><b>Swiss industrial customer - Digital consulting</b></p>
 
 <p align="center">
-    <i>« creative with excellent technical & communication skills / naturally gifted team player / proactive & timeless contributor / makes a great contribution to any team»</i></p>
-<p align="center"><b>Senior project planner – Pharma & biotech industry</b></p>
+    <i>« creative with excellent technical & communication skills / naturally gifted team player / proactive & timeless contributor / makes a great contribution to any team»</i></p><p align="center"><b>Senior project planner – Pharma & biotech industry</b></p>
 
 <p align="center">
-    <i>« transparent towards customers & efficiently leading them / broad set of skills / focused on quality / patient & good trainer »</i></p>
-<p align="center"><b>Customer advisor - Digital projects & consulting</b></p>
+    <i>« transparent towards customers & efficiently leading them / broad set of skills / focused on quality / patient & good trainer »</i></p><p align="center"><b>Customer advisor - Digital projects & consulting</b></p>
 
 <p align="center">
-    <i>« efficient work, wisely planned & dedicated partner »</i></p>
-<p align="center"><b>Vichy Spa's Global Operations Director - Digital projects & consulting</b></p>
+    <i>« efficient work, wisely planned & dedicated partner »</i></p><p align="center"><b>Vichy Spa's Global Operations Director - Digital projects & consulting</b></p>
 
 
 
