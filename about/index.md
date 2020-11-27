@@ -44,27 +44,27 @@ Still, you may want to have a look at my [projects & portfolio page](https://r-m
 
 <p align="center">
     <i>« focused on needs & trustful relationship. Always eager to help his pairs »</i>
-    <b>- SEO expert & web strategist - Digital projects & consulting</b></p>
+    <b> SEO expert & web strategist - Digital projects & consulting</b></p>
 
 
 <p align="center">
     <i>« proactive & good communicator / masters technologies & current trends to show us inovative approach in our digital transformation »</i>
-    <b>- Swiss industrial customer - Digital projects & consulting</b></p>
+    <b> Swiss industrial customer - Digital projects & consulting</b></p>
 
 
 <p align="center">
     <i>« creative with excellent technical & communication skills / naturally gifted team player / proactive & timeless contributor / makes a great contribution to any team»</i>
-    <b>- Senior project planner – Pharma & biotech industry</b></p>
+    <b> Senior project planner – Pharma & biotech industry</b></p>
 
 
 <p align="center">
     <i>« transparent towards customers & efficiently leading them / broad set of skills / focused on quality / patient & good trainer »</i>
-    <b>- Customer advisor - Digital projects & consulting</b></p>
+    <b> Customer advisor - Digital projects & consulting</b></p>
 
 
 <p align="center">
     <i>« efficient work, wisely planned & dedicated partner »</i></p><p align="center">
-    <b>- International Spa's Global Operations Director - Digital projects & consulting</b></p>
+    <b> International Spa's Global Operations Director - Digital projects & consulting</b></p>
 
 
 
