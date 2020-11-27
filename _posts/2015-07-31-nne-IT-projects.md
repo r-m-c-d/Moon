@@ -2,7 +2,7 @@
 layout: post
 title: 'Projects Portfolio: IT Projects at NNE Pharmaplan'
 date: 2015-07-31
-excerpt: "a detailed description of my assignments as IT Super user in this company"
+excerpt: "A detailed description of my assignments as IT Super user in this company"
 feature: https://raw.githubusercontent.com/r-m-c-d/sandbox/master/img-repo/nne-logo.png
 project: true
 tags: [english, ICT, infrastructure, helpdesk, portfolio]
