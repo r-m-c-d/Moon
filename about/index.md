@@ -9,11 +9,12 @@ date: 2018-12-17
 
 I'm "rmcd" or "romano" on most of my netizen profiles.  
 
-Coming from Caen (Normandy, France), I am based in Switzerland since 2011, I mostly worked for a danish global pharma & biotech engineering firm then also started  freelance activities in 2015. Since 2019, I now work for an IT-electronics manufacturer & Digital Signage software development company, where I mainly work on business analysis & operations (global channel data collection & processing, reporting, dashboards) and order-to-cash process analysis and workflow automation (on Power Automate). Managers, colleagues and customers, usually say that I am loyal and outgoing person whose relentless curiosity and desire to learn drive him to quickly grasp the ins and outs on projects. See some recommendations below.
+Coming from Caen (Normandy, France), based in Switzerland since 2011, when joined a danish global pharma & biotech engineering firm. In 2015, I started freelance activities in digital projects and 360° interactive content. Since 2019, I work for an IT-electronics manufacturer & Digital Signage software development company, where I mainly dedicate my focus on business analysis & operations (global channel data collection & processing, reporting, dashboards) and order-to-cash process analysis and workflow automation development. 
+Managers, colleagues and customers, usually say that I am loyal and outgoing person whose relentless curiosity and desire to learn drive him to quickly grasp the ins and outs on projects. See some recommendations below.
 
-Besides work, I dedicate my spare time thoroughly doing outdoor sports (mainly cycling, triathlon, skiing, trail running, but above all, mountain biking) while trying not to break any of my bones, which is a success so far, and striving to maintain my wobbly level on my guitar, or simply messing around with my kids - those tiny humans are actually quite time consuming!
+Besides work, I dedicate my spare time thoroughly doing outdoor sports (mainly cycling, triathlon, skiing, trail running and above all, mountain biking) while trying not to break any of my bones (which is a success so far!), and striving to maintain my wobbly level on my guitar, or simply messing around with my kids (or perhaps it is the other way around?).
 
-I am also active in various local communities & associations, and committed to several volunteering / pro bono projects. [Check out this page](https://r-m-c-d.github.io//volunteering-and-pro-bono-projects/) for more details about these projects.
+I'm also active in various local communities & associations, and committed to several volunteering & pro bono projects. [Check out this page](https://r-m-c-d.github.io//volunteering-and-pro-bono-projects/) for more details about these.
 
 This website has no ambition whatsoever other than serving as an easy repository for both personal & professional content, in english _ou en français_. You may find:
 
