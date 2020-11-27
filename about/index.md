@@ -39,7 +39,7 @@ Still, you may want to have a look at my [projects & portfolio page](https://r-m
 
 <p align="center">
     <i>« the glue that helps the team stick together: fast understanding & versatility, trustful, going the extra mile & coping with pressure in demanding project phases »</i>
-    <b>- Senior HVAC & utilities engineer - Pharma & biotech industry</b></p>
+    <b> Senior HVAC & utilities engineer - Pharma & biotech industry</b></p>
 
 
 <p align="center">
