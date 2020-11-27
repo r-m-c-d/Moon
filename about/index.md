@@ -63,7 +63,7 @@ Still, you may want to have a look at my [projects & portfolio page](https://r-m
 
 
 <p align="center">
-    <i>« efficient work, wisely planned & dedicated partner »</i></p><p align="center">
+    <i>« efficient work, wisely planned & dedicated partner »</i>
     <b> International Spa's Global Operations Director - Digital projects & consulting</b></p>
 
 
