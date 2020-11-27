@@ -3,7 +3,7 @@ layout: post
 title: 'Projects Portfolio: IT Projects at NNE Pharmaplan'
 date: 2015-07-31
 excerpt: "a detailed description of my assignments as IT Super user in this company"
-feature: https://cloud.disroot.org/apps/gallery/s/X3LXzQKCGC6CErF
+feature: https://raw.githubusercontent.com/r-m-c-d/sandbox/master/img-repo/nne-logo.png
 project: true
 tags: [english, ICT, infrastructure, helpdesk, portfolio]
 ---
@@ -14,7 +14,7 @@ tags: [english, ICT, infrastructure, helpdesk, portfolio]
 **Period**: 09.2011 – 07.2015  
 ---
 NNE Pharmaplan is a leading pharma & biotech engineering consulting firm, whose parent company is Novo Nordisk group, based in Denmark.
-Primarily recruited as Sales & Marketing Coordinator and also assisting our engineering consultants on customer projects, the growth of our office in Romandie soon required a Local IT, from which I highlight some projects hereafter:
+Primarily recruited as Sales & Marketing Coordinator and also assisting our engineering team on customer projects, the growth of our office in Romandie soon required a Local IT, from which I highlight some projects hereafter:
 
 #### 1- IT infrastructure project local lead
 
@@ -31,6 +31,7 @@ Moving the team from a small, temporary rental office with light infrastructure 
 - Local or remote support for network & configuration
 
 ![final central patch closet](https://raw.githubusercontent.com/r-m-c-d/r-m-c-d.github.io/master/_posts/final-central-patch-bay-closet.JPG)
+
 Some interventions were made out of office hours, to comply with my other project or consulting assignments as well as to avoid network disconnection for users (+/- 15 people).
 
 This was a small project, less than 100K CHF and a few months duration, but it was a challenge for someone passionate but not especially skilled in IT infrastructure and I really enjoyed it. Entrusted by my regional manager to lead this, and being the only local person dealing on site with suppliers and work in progress, it allowed me to take responsibilities and grow my project management skills by being involved in the project from its early definition to its completion. It also greatly improved my understanding of network infrastructure, hardware equipment, and connection protocols involved to equip an office.
