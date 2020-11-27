@@ -5,7 +5,7 @@ tags: [about, rmcd, articles, intro, cv]
 date: 2018-12-17
 ---
 
-<center>Welcome to this tiny drop of bits in the Internet's ocean! </center>
+<center><b> Welcome to this tiny drop of bits in the Internet's ocean! </b></center>
 
 I'm "rmcd" or "romano" on most of my netizen profiles.  
 
