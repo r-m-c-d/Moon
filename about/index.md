@@ -9,11 +9,11 @@ date: 2018-12-17
 
 I'm "rmcd" or "romano" on most of my netizen profiles.  
 
-Coming from Normandy, France, I am based in Switzerland since 2011 and I work for an IT/electronics manufacturer & Digital Signage software development company, where I mainly work on business analysis & operations (global sell-in/sell-out data collection & processing, reporting, dashboards) and order-to-cash process analysis and workflow automation (on Power Automate).
+Coming from Caen (Normandy, France), I am based in Switzerland since 2011 and I work for an IT/electronics manufacturer & Digital Signage software development company, where I mainly work on business analysis & operations (global sell-in/sell-out data collection & processing, reporting, dashboards) and order-to-cash process analysis and workflow automation (on Power Automate).
 
 Besides work, I dedicate my spare time thoroughly doing outdoor sports (mainly cycling, triathlon, skiing, trail running, but above all, mountain biking) while trying not to break any of my bones, which is a success so far, and striving to maintain my wobbly level on my guitar, or simply messing around with my kids - those tiny humans are actually quite time consuming!
 
-I am also active in various local communities & associations, and committed to several volunteering / pro bono projects. [Check out this page](https://r-m-c-d.github.io//volunteering-and-pro-bono-projects/) for more details.
+I am also active in various local communities & associations, and committed to several volunteering / pro bono projects. [Check out this page](https://r-m-c-d.github.io//volunteering-and-pro-bono-projects/) for more details about these projects.
 
 This website has no ambition whatsoever other than serving as an easy repository for both personal & professional content, in english _ou en français_. You may find:
 
@@ -24,7 +24,7 @@ This website has no ambition whatsoever other than serving as an easy repository
 
 ## CV & projects portfolio showcase
 Obviously, since I'm ~~actively searching right now~~ not looking for job opportunities :-)  
-Still, you may want to have a look at my [projects & portfolio page](https://r-m-c-d.github.io/projects/).
+Still, you may want to have a look at my [projects & portfolio page](https://r-m-c-d.github.io/projects/) and see some recommendations further down this page.
 
 ## Articles about
 
