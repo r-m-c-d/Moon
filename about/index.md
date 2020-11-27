@@ -9,7 +9,7 @@ date: 2018-12-17
 
 I'm "rmcd" or "romano" on most of my netizen profiles.  
 
-Coming from Caen (Normandy, France), based in Switzerland since 2011, when joined a danish global pharma & biotech engineering firm. In 2015, I started freelance activities in digital projects and 360° interactive content. Since 2019, I work for an IT-electronics manufacturer & Digital Signage software development company, where I mainly dedicate my focus on business analysis & operations (global channel data collection & processing, reporting, dashboards) and order-to-cash process analysis and workflow automation development. 
+Coming from Caen (Normandy, France), based in Switzerland since 2011, when I joined a danish global pharma & biotech engineering firm. In 2015, I started freelance activities in digital projects and 360° interactive content. Since 2019, I work for an IT-electronics manufacturer & Digital Signage software development company, where I mainly dedicate my focus on business analysis & operations (global channel data collection & processing, reporting, dashboards) and order-to-cash process analysis and workflow automation development. 
 Managers, colleagues and customers, usually say that I am loyal and outgoing person whose relentless curiosity and desire to learn drive him to quickly grasp the ins and outs on projects. See some recommendations below.
 
 Besides work, I dedicate my spare time thoroughly doing outdoor sports (mainly cycling, triathlon, skiing, trail running and above all, mountain biking) while trying not to break any of my bones (which is a success so far!), and striving to maintain my wobbly level on my guitar, or simply messing around with my kids (or perhaps it is the other way around?).
