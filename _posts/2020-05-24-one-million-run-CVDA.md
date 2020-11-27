@@ -2,7 +2,7 @@
 layout: post
 title: "One Million Run et initiative 1CHF/kilomètre pour l’association CVDA"
 date: 2020-05-24
-excerpt: "courir pour récolter des fonds pour une association"
+excerpt: "Courir pour récolter des fonds pour une association"
 project: true
 feature: https://raw.githubusercontent.com/r-m-c-d/rmcd-sandbox/master/img-repo/one-million-run-CVDA-initiative_banner-format.png
 tag:
@@ -12,12 +12,14 @@ tag:
 ---
 
 <p align="center">
-    <b>UPDATE 1er juin, résultat final: 60km courus en 8h!</b></p>
+    <b>UPDATE! 01.06.2020 - RESULTAT: 60KM COURUS EN 8H!</b></p>
 <p align="center">
     J'invite les donateurs de l'initiative 1CHF/kilomètre à se rendre sur <a href="https://www.cvdassociation.com/donate">la page dons de l'association CVDA</a> et à indiquer "One Million Run" en commentaire de leur versement. Encore MERCI à vous!! Très heureux que cette petite initiative ai suscité un peu d'engouement localement et que cela ai permis d'apporter plus de visibilité à l'association!</p>
 
 <p align="center">
 - - - - - - - - - -
+Article d'origine:
+ - - - - - - - - - -
  </p>
 
 <p align="center">
