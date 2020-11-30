@@ -5,8 +5,10 @@ tags: [about, rmcd, articles, intro, cv]
 date: 2018-12-17
 ---
 
-<center>Welcome to this tiny drop of bits in the Internet's ocean.
-    I'm "rmcd", or "romano",on most of my netizen profiles</center>
+
+
+<p align="center">Welcome to this tiny drop of bits in the Internet's ocean.</p>
+<p align="center">I'm "rmcd", or "romano",on most of my netizen profiles.</p>
 
 
 Coming from Caen (Normandy, France) and based in Switzerland since 2011, when I joined a danish global pharma & biotech engineering firm. In 2015, I started freelance activities in digital projects and 360° and VR interactive content development. Since 2019, I work for an IT-electronics manufacturer & Digital Signage software development company, where I mainly dedicate my focus on business analysis & operations (global channel data collection & processing, reporting, dashboards) and order-to-cash process analysis and workflow automation development. 
