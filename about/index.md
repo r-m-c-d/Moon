@@ -5,18 +5,18 @@ tags: [about, rmcd, articles, intro, cv]
 date: 2018-12-17
 ---
 
-<center><b> Welcome to this tiny drop of bits in the Internet's ocean! </b></center>
+<center>Welcome to this tiny drop of bits in the Internet's ocean.
+    I'm "rmcd", or "romano",on most of my netizen profiles</center>
 
-I'm "rmcd" or "romano" on most of my netizen profiles.  
 
-Coming from Caen (Normandy, France), based in Switzerland since 2011, when I joined a danish global pharma & biotech engineering firm. In 2015, I started freelance activities in digital projects and 360° interactive content. Since 2019, I work for an IT-electronics manufacturer & Digital Signage software development company, where I mainly dedicate my focus on business analysis & operations (global channel data collection & processing, reporting, dashboards) and order-to-cash process analysis and workflow automation development. 
+Coming from Caen (Normandy, France) and based in Switzerland since 2011, when I joined a danish global pharma & biotech engineering firm. In 2015, I started freelance activities in digital projects and 360° and VR interactive content development. Since 2019, I work for an IT-electronics manufacturer & Digital Signage software development company, where I mainly dedicate my focus on business analysis & operations (global channel data collection & processing, reporting, dashboards) and order-to-cash process analysis and workflow automation development. 
 Managers, colleagues and customers, usually say that I am loyal and outgoing person whose relentless curiosity and desire to learn drive him to quickly grasp the ins and outs on projects. See some recommendations below.
 
-Besides work, I dedicate my spare time thoroughly doing outdoor sports (mainly cycling, triathlon, skiing, trail running and above all, mountain biking) while trying not to break any of my bones (which is a success so far!), and striving to maintain my wobbly level on my guitar, or simply messing around with my kids (or perhaps it is the other way around?).
+Besides work, I dedicate my spare time thoroughly doing outdoor sports (mainly cycling, triathlon, skiing, trail running and above all, mountain biking) while trying not to break any of my bones (which is a success so far!), trying geeky stuff on personal projects, trading cryptocurrencies, striving to maintain my wobbly level on my guitar, or simply messing around with my kids (or perhaps it is the other way around?).
 
 I'm also active in various local communities & associations, and committed to several volunteering & pro bono projects. [Check out this page](https://r-m-c-d.github.io//volunteering-and-pro-bono-projects/) for more details about these.
 
-This website has no ambition whatsoever other than serving as an easy repository for both personal & professional content, in english _ou en français_. You may find:
+This website has no ambition whatsoever other than serving as an easy repository for both personal & professional content, in english _ou en français_ since I natively speak baguette, too. You may find:
 
 ## Articles about
 * Digital solutions, tools, reviews or tutorials, open source and own built templates, etc. 
@@ -27,11 +27,7 @@ This website has no ambition whatsoever other than serving as an easy repository
 Obviously, since I'm ~~actively searching right now~~ not looking for job opportunities :-)  
 Still, you may want to have a look at my [projects & portfolio page](https://r-m-c-d.github.io/projects/) and see some recommendations further down this page.
 
-## Articles about
 
-* Digital solutions, tools, reviews or tutorials, open source and own built templates, etc. 
-* ICT, cryptocurrencies, privacy, society, sports and other personal interests in general
-* _published here or on my [Medium page](https://medium.com/@r_mcd)_
 
 
 -----
@@ -77,4 +73,4 @@ _Here I'm supposed to warn you that everything in this site belongs to me except
 This theme was forked from [Moon repository](https://github.com/TaylanTatli/Moon) and uses the terms of the [MIT license](https://github.com/r-m-c-d/r-m-c-d.github.io/blob/master/LICENSE). Articles are under the [CC BY-NC-SA 4.0 license](https://creativecommons.org/licenses/by-nc-sa/4.0/) but I'm always open to discussion.
 
 ## Contact?
-Sure! Hit me a DM on [Twitter](https://twitter.com/rmcd0) or [mail this box](mailto:rmcd.biz@gmail.com?subject=[Source_GitHub] first contact).
+Sure! Hit me a DM on [Twitter](https://twitter.com/rmcd0) or [mail this box](mailto:rmcd.projects@gmail.com?subject=[Source_GitHub] first contact). Don't be surprised if I take like a week to respond 8)
