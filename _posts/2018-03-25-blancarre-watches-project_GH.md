@@ -16,7 +16,7 @@ tags: [english, digital, 360, VR, portfolio]
 
 Blancarré is a young Swiss made watches manufacturer founded by Nicolas Mertenat, former lead designer at Omega and other watchmakers (see [founder's interview](https://www.youtube.com/watch?time_continue=1&v=FhHxM7p89N8) and [press coverage](http://blancarre.com/shop/content/11-presse)).  
 
-*This article was first drafted as a project wrap up after project handover in March 2018 and was also [published on Medium](https://medium.com/@Romain_Marchand/projects-portfolio-blancarr%C3%A9-virtual-shop-9875abc69832) in a much detailed and imaged version.*
+*This article was first drafted as a project wrap up after project handover in March 2018 and was also [published on Medium](https://rmcd0.medium.com/projects-portfolio-blancarr%C3%A9-virtual-shop-9875abc69832) in a much detailed and imaged version.*
 
 #### Context
 Founder's vision is to use the most of newest digital technologies to leverage his product presence and corporate identity and stand out from other watchmakers.  
@@ -31,7 +31,7 @@ Then came my mission to take over everything from scratch, analyse the feasibili
 
 #### Hands-on: approach & main achievements:
 
-This project was very different from the 360° interactive virtual tours I usually create ([such as this](https://www.tourmake.it/de/tour/f41a67a2761ed41b84806b991b31431e)), since instead of shooting actual DSLR pictures, stitching them into 360x180 panos (process I detailed [in this article](https://medium.com/@Romain_Marchand/publication-google-street-view-trusted-que-se-passe-til-apr%C3%A8s-le-shooting-8b5417ce0307)) and then develop interactive content based on the existing Google Streetview tour through an external platform, here the Blancarré shop physically doesn't exist at all. Hence everything has been digitally created from scratch. The shop is a 3D modelled room with product displays and reception desk, later on colourised and completed with 360° elements and embedded video content.
+This project was very different from the 360° interactive virtual tours I usually create, since instead of shooting actual DSLR pictures, stitching them into 360x180 panos (process I detailed [in this article](https://medium.com/@rmcd0/publication-google-street-view-trusted-que-se-passe-til-apr%C3%A8s-le-shooting-8b5417ce0307)) and then develop interactive content based on the existing Google Streetview tour through an external platform, here the Blancarré shop physically doesn't exist at all. Hence everything has been digitally created from scratch. The shop is a 3D modelled room with product displays and reception desk, later on colourised and completed with 360° elements and embedded video content.
 
 - **Think out of the box**:
 instead of first going to a developer, since database was sent to me "as is", I started by studying the project and the data for dozen of hours to deeply understand the conception model
