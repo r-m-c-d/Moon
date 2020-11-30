@@ -13,7 +13,7 @@ tag:
 
 #### *This is no secret that I’m actively looking for a job — as of right now at least. And in a few interviews I’ve recently landed, a recurrent “question”, not to say an obvious concern, came up from my interviewers once in a while. It encouraged me to write a few words describing the hidden side of running a small business…*
 
-_Tl; dr: here’s my [mailbox](mailto:rmcd.projects@gmail.com?subject=[Source_GitHub] first contact), get in touch and hire me :-)_
+
 
 "_So, I can see you’re working as freelancer for more than 3 years now, aren’t you afraid of getting back to a corporate life?_” is the most common way I’m asked. Although subtle, it often underlines a bit of a concern in the recruiter’s voice. Occasionally, the question is turned quite more frankly: “_there would be things like.. you’d have to be at 8am in the office and respect some offices rules, you know_”, or “_you will have direct synergies with your coworkers around and often face customers_”, as if I was a lazy, mad, sectarian antisocial.
 ![](https://media.giphy.com/media/NGV4vAghFiUOA/giphy.gif)
