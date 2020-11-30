@@ -21,4 +21,4 @@ _Homo-numericus_ vivant avec son temps, j’ai comme beaucoup une fâcheuse tend
 
 Je reviens ci-après sur les bonnes pratiques auxquelles je m'astreins au cours de l'année, ainsi qu'aux actions plus conséquentes entreprises durant les périodes de vacances.
 
-[_Lire la suite sur Medium_](https://medium.com/@Romain_Marchand/hygiène-numérique-protection-données-data-cleaning-réduction-sources-d8b4984ba755)
+[_Lire la suite sur Medium_](https://rmcd0.medium.com/hygi%C3%A8ne-num%C3%A9rique-protection-donn%C3%A9es-data-cleaning-r%C3%A9duction-sources-d8b4984ba755)
