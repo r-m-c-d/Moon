@@ -23,7 +23,7 @@ This website has no ambition whatsoever other than serving as an easy repository
 ## Articles about
 * Digital solutions, tools, reviews or tutorials, open source and own built templates, etc. 
 * ICT, cryptocurrencies, privacy, society, sports and other personal interests in general
-* _published here or on my [Medium page](https://medium.com/@r_mcd)_
+* _published here or on my [Medium page](https://medium.com/@rmcd0)_
 
 ## CV & projects portfolio showcase
 Obviously, since I'm ~~actively searching right now~~ not looking for job opportunities :-)  
