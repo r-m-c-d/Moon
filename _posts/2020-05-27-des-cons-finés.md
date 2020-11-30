@@ -19,4 +19,4 @@ La semaine passée déjà quelques bouchons matinaux m’avaient réveillé l’
 
 Ca y'est, tout est redevenu bruyant, aggressif. Frénésie. “Laisse-moi passer!”. Klaxon. Aliénation. Camions qui fument noir en redémarrant au feu rouge. Acharnement. “Tu vois pas qu’tu gènes?”, “y’a un passage piétons à 10m bordel!”. Effervescence. Files de SUV urbains de 2 tonnes qui ne verront jamais le moindre gravillon d’un sentier de montagne parce-que-tu-comprends-chérie-on-va-quand-même-pas-rayer-la-carrosserie-d’un-4x4-Béhèm-en-leasing-tout-neuf, avec une seule personne au volant et 4 beaux sièges chauffants en cuir mais non-occupés. Férocité. Ca r’gueule, ça double, ça déboîte, ça freine. Ardeur.
 
-[_Lire la suite sur Medium_](https://medium.com/@r_mcd/des-cons-fin%C3%A9s-1f945c7f037f)
+[_Lire la suite sur Medium_](https://medium.com/@rmcd0/des-cons-fin%C3%A9s-1f945c7f037f)
