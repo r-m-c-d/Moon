@@ -18,4 +18,4 @@ tag:
 
 If you landed here, I assume you’ve already heard of [Nimiq’s project](https://nimiq.com/en/), a relatively young project in the cryptosphere that is, in the end, just (another) easy-to-use decentralized payment protocol & ecosystem, however with a different, attractive approach. You also probably read that you can easily mine some for free, from within your browser window — that’s actually part of their concept — or with local or cloud computing power.
 
-[*Read more on Medium...*](https://medium.com/@Romain_Marchand/nimiq-cloud-mining-on-google-cloud-an-updated-guide-6193879f14ab)
+[*Read more on Medium...*](https://medium.com/@rmcd0/nimiq-cloud-mining-on-google-cloud-an-updated-guide-6193879f14ab)
