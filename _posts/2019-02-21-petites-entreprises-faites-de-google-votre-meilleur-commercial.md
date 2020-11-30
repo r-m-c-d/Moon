@@ -24,6 +24,6 @@ Car même si je tire une certaine fierté de ce joli chiffre, je sais qu’il n�
 
 Et **promouvoir le commerce local**, ça c’est satisfaisant !
 
-[*Lire la suite sur Medium...*](https://medium.com/@Romain_Marchand/petites-entreprises-faites-de-google-votre-meilleur-commercial-224f041b818a)
+[*Lire la suite sur Medium...*](https://rmcd0.medium.com/petites-entreprises-faites-de-google-votre-meilleur-commercial-224f041b818a)
 
 _Article réalisé pour republication en allemand sur [3 Pack Consulting](https://3pack.ch), à Olten, dont je suis partenaire en Suisse Romande et pour le compte de qui je réalise de nombreux mandats Google My Business & Streetview._
