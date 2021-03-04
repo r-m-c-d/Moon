@@ -11,7 +11,7 @@ date: 2021-03-04
 <p align="center">I'm "rmcd", or "romano",on most of my netizen profiles.</p>
 
 
-French. Based in Switzerland. Work for an IT-electronics manufacturer & software development company, where I mainly dedicate my focus on channel business analysis, operations order-to-cash process and workflow automation development. 
+French. Based in Switzerland. Work for an IT-electronics manufacturer & software development company, where I mainly dedicate to channel business analysis, operations order-to-cash process and workflow automation development. 
 
 People usually say I'm loyal and outgoing person whose relentless curiosity and desire to learn drive him to quickly grasp the ins and outs on projects. See some recommendations below.
 
