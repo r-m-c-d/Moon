@@ -74,7 +74,8 @@ Still, you may want to have a look at my [projects & portfolio page](https://r-m
 -----
 
 ## Disclaimer
-_Here I'm supposed to warn you that everything in this site belongs to me except what doesn't and you're supposed to know what you can (re)use or not. Also what I write only represents my point of view and all sorts of everyone-should-read-but-never-does stuff._ You know.     
+_Here I'm supposed to warn you that everything in this site belongs to me except what doesn't and you're supposed to know what you can (re)use or not. Also what I write only represents my point of view and all sorts of everyone-should-read-but-never-does stuff._ You know.   
+
 This theme was forked from [Moon repository](https://github.com/TaylanTatli/Moon) and uses the terms of the [MIT license](https://github.com/r-m-c-d/r-m-c-d.github.io/blob/master/LICENSE). Articles are under the [CC BY-NC-SA 4.0 license](https://creativecommons.org/licenses/by-nc-sa/4.0/) but I'm always open to discussion.
 
 ## Contact?
