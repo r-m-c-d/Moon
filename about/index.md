@@ -11,13 +11,13 @@ date: 2021-03-04
 <p align="center">I'm "rmcd", or "romano", on most of my netizen profiles.</p>
 
 
-French. Based in Switzerland. Working for an IT-electronics manufacturer & software development company, where I mainly dedicate to channel business analysis for our worldwide distribution, operational support in order-to-cash process for our main distributors, and side projects dedicated to analyzing business process improvements and mapping & designing automated workflows. 
+French. Based in Switzerland. Working for a globally recognized and award-winning IT-electronics manufacturer & software development company where I mainly dedicate to channel business analysis for our worldwide distribution, operational support in order-to-cash process for our main distributors, and projects requiring to analyze business process improvements then map & design automated workflows. 
 
 Sitting at crossroads between Tech & BizOPS, I thrive in projects requiring hands-on & understanding of technical IT constraints while keeping end-user/business needs in mind.
 
-People usually say I'm loyal and outgoing person whose relentless curiosity and desire to learn drive him to quickly grasp the ins and outs on projects. See some recommendations below.
+People usually say I'm a loyal and outgoing person whose relentless curiosity and desire to learn drive him to quickly grasp the ins and outs on projects. See some recommendations below.
 
-Besides work, I'm thoroughly into outdoor sports (mainly mountain biking, road cycling, triathlon, skiing, trail running, open water swimming) while trying not to break my bones (which is a success so far!). I have a keen interest in technology, open source and privacy matters, as well as in overall cryptosphere & currencies and I am active in several communities or projects. 
+Besides work, I'm thoroughly into outdoor sports (mainly mountain biking, road cycling, triathlon, skiing, trail running, open water swimming) while trying not to break my bones (which is a success so far!). I have a keen interest in technology evolution, open source and privacy matters, as well as in overall crypto & blockchain technology, for which and I am active in several communities or projects. 
 
 I'm also involved in various local communities & associations, committed to several volunteering & pro bono projects, and member of the editorial board of a local paper. [Check out this page](https://r-m-c-d.github.io//volunteering-and-pro-bono-projects/) for more details about these.
 
