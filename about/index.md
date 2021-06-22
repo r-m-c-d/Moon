@@ -1,7 +1,7 @@
 ---
 layout: page
-title: In a few words
-tags: [about, rmcd, articles, intro, cv]
+title: a few words
+tags: [about, rmcd, articles, intro]
 date: 2021-03-04
 ---
 
@@ -15,7 +15,7 @@ French. Based in Switzerland. Working for a globally recognized and award-winnin
 
 Sitting at crossroads between Tech & BizOPS, I thrive in projects requiring hands-on & understanding of technical IT constraints while keeping end-user/business needs in mind.
 
-People usually say I'm a loyal and outgoing person whose relentless curiosity and desire to learn drive him to quickly grasp the ins and outs on projects. See some recommendations below.
+People often say I'm a loyal and outgoing person whose relentless curiosity and desire to learn drive him to quickly grasp the ins and outs on projects. See some recommendations below.
 
 Besides work, I'm thoroughly into outdoor sports (mainly mountain biking, road cycling, triathlon, skiing, trail running, open water swimming) while trying not to break my bones (which is a success so far!). I have a keen interest in technology evolution, open source and privacy matters, as well as in overall crypto & blockchain technology, for which and I am active in several communities or projects. 
 
