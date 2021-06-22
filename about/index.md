@@ -8,20 +8,20 @@ date: 2021-03-04
 
 
 <p align="center">Welcome to this tiny drop of bits in the Internet's ocean.</p>
-<p align="center">I'm "rmcd", or "romano",on most of my netizen profiles.</p>
+<p align="center">I'm "rmcd", or "romano", on most of my netizen profiles.</p>
 
 
-French. Based in Switzerland. Work for an IT-electronics manufacturer & software development company, where I mainly dedicate to channel business analysis, operations order-to-cash process and workflow automation development. 
+French. Based in Switzerland. Working for an IT-electronics manufacturer & software development company, where I mainly dedicate to channel business analysis for our worldwide distribution, operational support in order-to-cash process for our main distributors, and side projects dedicated to workflow automation development and process improvements. 
 
 People usually say I'm loyal and outgoing person whose relentless curiosity and desire to learn drive him to quickly grasp the ins and outs on projects. See some recommendations below.
 
-Besides work, I'm thoroughly into outdoor sports (mainly mountain biking, road cycling, triathlon, skiing, trail running) while trying not to break my bones (a success so far!), geeky stuff on personal tech projects, cryptocurrencies trading, and a often striving to maintain my wobbly, unsound level on my guitar.
+Besides work, I'm thoroughly into outdoor sports (mainly mountain biking, road cycling, triathlon, skiing, trail running, open water swimming) while trying not to break my bones (which is a success so far!). I have a keen interest in technology, as well as in overall cryptosphere & cryptocurrencies and I am active in several communities or projetcs. 
 
-I'm also active in various local communities & associations, and committed to several volunteering & pro bono projects. [Check out this page](https://r-m-c-d.github.io//volunteering-and-pro-bono-projects/) for more details about these.
+I'm also involved in various local communities & associations, committed to several volunteering & pro bono projects, and member of the editorial board of a local paper. [Check out this page](https://r-m-c-d.github.io//volunteering-and-pro-bono-projects/) for more details about these.
 
-This website has no ambition whatsoever other than serving as an easy repository for both personal & professional content, in english _ou en français_ since I natively speak baguette, too ¯\_(ツ)_/¯
+This website has no ambition whatsoever other than serving as an easy repository to link both personal & professional content, in english _ou en français_ since I natively speak baguette, évidemment.
 
-You may find:
+Here you may find:
 
 ## Articles about
 * Digital solutions, tools, reviews or tutorials, open source and own built templates, etc. 
@@ -29,8 +29,8 @@ You may find:
 * _published here or on my [Medium page](https://medium.com/@rmcd0)_
 
 ## CV & projects portfolio showcase
-Obviously, since I'm ~~actively searching right now~~ not looking for job opportunities :-)  
-Still, you may want to have a look at my [projects & portfolio page](https://r-m-c-d.github.io/projects/) and see some recommendations further down this page.
+Obviously, since I'm currently looking for job opportunities :-)  
+Speaking of which, you may want to have a look at my [projects & portfolio page](https://r-m-c-d.github.io/projects/) and see some recommendations further down this page.
 
 
 
@@ -74,9 +74,10 @@ Still, you may want to have a look at my [projects & portfolio page](https://r-m
 -----
 
 ## Disclaimer
-_Here I'm supposed to warn you that everything in this site belongs to me except what doesn't and you're supposed to know what you can (re)use or not. Also what I write only represents my point of view and all sorts of everyone-should-read-but-never-does stuff._ You know.   
+_Here I'm supposed to warn you that everything in this site belongs to me except what doesn't and you're supposed to know what you can (re)use or not. Also what I write only represents my own point of view and all sorts of everyone-should-read-but-never-does stuff._ 
+You know.   
 
 This theme was forked from [Moon repository](https://github.com/TaylanTatli/Moon) and uses the terms of the [MIT license](https://github.com/r-m-c-d/r-m-c-d.github.io/blob/master/LICENSE). Articles are under the [CC BY-NC-SA 4.0 license](https://creativecommons.org/licenses/by-nc-sa/4.0/) but I'm always open to discussion.
 
 ## Contact?
-Sure! Hit me a DM on [Twitter](https://twitter.com/rmcd0) or [mail this box](mailto:rmcd0@pm.me?subject=[Source_GitHub] first contact). Don't be surprised if I take like a week to respond...
+Sure! Hit me a DM on [Twitter](https://twitter.com/rmcd0) or preferably [mail this box](mailto:rmcd0@pm.me?subject=[Source_GitHub] first contact). I might take a few days before replying.
