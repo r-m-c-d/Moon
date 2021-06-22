@@ -15,7 +15,7 @@ French. Based in Switzerland. Working for an IT-electronics manufacturer & softw
 
 People usually say I'm loyal and outgoing person whose relentless curiosity and desire to learn drive him to quickly grasp the ins and outs on projects. See some recommendations below.
 
-Besides work, I'm thoroughly into outdoor sports (mainly mountain biking, road cycling, triathlon, skiing, trail running, open water swimming) while trying not to break my bones (which is a success so far!). I have a keen interest in technology, as well as in overall cryptosphere & cryptocurrencies and I am active in several communities or projetcs. 
+Besides work, I'm thoroughly into outdoor sports (mainly mountain biking, road cycling, triathlon, skiing, trail running, open water swimming) while trying not to break my bones (which is a success so far!). I have a keen interest in technology, open source and privacy matters, as well as in overall cryptosphere & cryptocurrencies and I am active in several communities or projects. 
 
 I'm also involved in various local communities & associations, committed to several volunteering & pro bono projects, and member of the editorial board of a local paper. [Check out this page](https://r-m-c-d.github.io//volunteering-and-pro-bono-projects/) for more details about these.
 
